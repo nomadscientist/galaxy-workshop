@@ -121,3 +121,8 @@ companyofbiologists:
   name: Company of Biologists
   link: "https://www.biologists.com/"
   logo:  CoBiologists_logo.png 
+  
+theopenuniversity: 
+  name: The Open University
+  link: "https://www.open.ac.uk/"
+  logo: https://files.slack.com/files-pri/T01EL3YJPC2-F02HYDWDSKD/ou.png 
