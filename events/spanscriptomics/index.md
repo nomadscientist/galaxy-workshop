@@ -8,7 +8,7 @@ instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
   - shiltemann
   - hexylena
-interestform: "https://TODO"
+interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
@@ -32,11 +32,10 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!
 
 
-## Register your interest!
+## ¡Registra tu interes!
 
-Welcome! Click the button below to register your interest
 
-<a href="page.interestform"><button type="button" class="btn btn-success btn-lg">I'm interested!!</button></a>
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Registra tu interés</button></a>
 
 
 <br/>
@@ -54,6 +53,7 @@ Welcome! Click the button below to register your interest
 
 
 ## Registro
+
 Completa el formulario de registro para inscribirte en este taller.
 
 
@@ -94,6 +94,17 @@ We hope you remember that there is a trained, expert team during the course dedi
 **Support:** Slack Channel  ([invite link]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel)  \\
 **Contact:** [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
 **Organized by:** [The Open University](https://www.openuniversity.edu/), [EMBL-EBI](https://www.ebi.ac.uk/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
+
+
+## Register your interest!
+
+
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Register your interest</button></a>
+
+You will be notified when final registration opens.
+
+<br/>
+
 
 
 ## Program
