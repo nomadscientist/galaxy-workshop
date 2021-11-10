@@ -16,20 +16,6 @@ lang: en
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
-instructors:
-  - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
-  - ales-ibt
-  - pclo
-  - shiltemann
-  - hexylena
-  - beatrizserrano
-  # IrelCM
-  - Jolene Ramsey
-  - Lorena Gallego-Villar
-  - María Bernardi
-  - Melissa Black
-  - npalopoli
-  - Stefana Dreptate
 
 schedule:
     day1:
@@ -37,29 +23,29 @@ schedule:
       sessions:
         - name: "Get set up for the course"
           type: setup-euonly
-        - link: meetnjoin
+        - link: meetnjoin-spanscriptomics
 
     galaxy-intro:
       title: "Introduction to Galaxy"
       description: "Today we start by introducing the Galaxy Platform"
       sessions:
         - name: "Icebreaker: Introduce yourself in Slack!"
-          type: icebreaker
+          type: icebreaker-spanscriptomics
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-        - link: introduction/galaxy-intro-short/slides
-        - link: introduction/galaxy-intro-short/tutorial
+        - link: introduction/galaxy-intro-short/slides-spanscriptomics
+        - link: introduction/galaxy-intro-short/tutorial-spanscriptomics
 
     ngs:
       title: Single Cell
       description: "Here we show you how to analyze your NGS data using Galaxy."
       sessions:
-        - link: transcriptomics-scrna-intro-slides
-        - link: transcriptomics/droplet-quantification-preprocessing/tutorial
-        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial
+        - link: transcriptomics-scrna-intro-slides-spanscriptomics
+        - link: transcriptomics/droplet-quantification-preprocessing/tutorial-spanscriptomics
+        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial-spanscriptomics
 
     done:
       title: "All done?"
-      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
+      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! We'll send you a survey after the course - PLEASE fill it out. Thanks for joining!!"
       sessions:
 
     post-course:
@@ -71,5 +57,3 @@ schedule:
 ---
 
 Welcome to the GTÑ Experiment!
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PmEXcwjmhho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,28 @@
+{% assign locale = site.data.lang[page.lang] %}
+<p>{{ locale['ice-hi'] }}</p>
+
+
+<div class="card" style="width: 100%">
+ <div class="row no-gutters">
+  <div class="col-sm-5">
+   <img class="card-img" src="{{site.baseurl}}/assets/images/icebreaker.jpg" alt="Icebreaker pictogram">
+  </div>
+  <div class="col-sm-7">
+   <div class="card-body">
+    <h5 class="card-title">{{ locale['ice'] }}</h5>
+    <p class="card-text">
+     <br/><strong> {{ include.prompt }} </strong><br/>
+    </p>
+    <p class="card-text">
+     {{ locale['ice-post'] }} <a href="{{site.support.icebreaker_link}}"> {{ site.support.icebreaker_channel }}</a>!
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+<br/>
+<p class="card-text">
+	{{ locale['ice-friendly'] }}
+</p>
+<br/>
+{% endif %}
