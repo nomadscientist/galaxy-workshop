@@ -36,7 +36,7 @@ schedule:
       title: Welcome & Practical Information
       sessions:
         - name: "Get set up for the course"
-          type: setup
+          type: setup-euonly
         - link: meetnjoin
 
     galaxy-intro:
@@ -71,3 +71,5 @@ schedule:
 ---
 
 Welcome to the GTÑ Experiment!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PmEXcwjmhho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

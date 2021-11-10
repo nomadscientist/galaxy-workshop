@@ -1,0 +1,89 @@
+{% assign locale = site.data.lang[page.lang] %}
+
+<div class="card" style="width: 100%">
+ <div class="row no-gutters">
+  <div class="col-sm-4">
+   <img class="card-img" src="{{site.baseurl}}/assets/images/setup/galaxylogo.png" alt="Galaxy logo" width="75%">
+  </div>
+  <div class="col-sm-7">
+   <div class="card-body">
+    <h5 class="card-title">{{ locale['register'] }}</h5>
+    <p class="card-text">
+     <br/><strong>{{ locale['create'] }}</strong>
+     <ul>
+      {% if page.galaxy_servers %}
+      {% for s in page.galaxy_servers %}
+        <li><a href="{{s.url}}">{{s.name}}</a></li>
+      {% endfor %}
+      {% else %}
+      <li><a href="https://usegalaxy.eu">🌍 UseGalaxy.eu (Europe)</a></li>
+      {% endif %}
+     </ul>
+    {{ locale['create-pick'] }}
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+
+<br/><br/>
+
+
+
+
+{% if page.tiaas_keyword %}
+<div class="card" style="width: 100%">
+ <div class="row no-gutters">
+  <div class="col-sm-4">
+   <img class="card-img" src="{{site.baseurl}}/assets/images/setup/tiaas.png" alt="tiaas logo" width="75%">
+  </div>
+  <div class="col-sm-7">
+   <div class="card-body">
+    <h5 class="card-title">{{ locale['register-tiaas'] }}</h5>
+    <p class="card-text">
+     <br/><strong>{{ locale['tiaas-about'] }}</strong>
+     {{ locale['tiaas-click'] }}
+     <ul>
+      {% for server in page.tiaas_servers %}
+      <li><a href="https://{{ site.data.tiaas[server]['domain'] }}/join-training/{{ page.tiaas_keyword }}/">{{ site.data.tiaas[server]['text'] }}</a></li>
+      {% endfor %}
+      {% unless page.tiaas %}
+      {% endunless %}
+     </ul>
+     {{ locale['tiaas-why'] }}
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+
+<br/><br/>
+{% endif %}
+
+
+
+
+
+<div class="card" style="width: 100%">
+ <div class="row no-gutters">
+  <div class="col-sm-4">
+   <img class="card-img" src="{{site.baseurl}}/assets/images/setup/slacklogo.png" alt="Slack Logo">
+  </div>
+  <div class="col-sm-7">
+   <div class="card-body">
+    <h5 class="card-title">{{ locale['slack-join'] }}</h5>
+    <p class="card-text">
+     <br/>
+     <strong>{{ locale['slack-what'] }}</strong>
+     <ul>
+      <li><a href="{{site.support.join_link}}">{{ locale['slack-link'] }}</a></li>
+      {% if page.slack_event_channel %}
+      <li>Chat channel: <a href="{{page.slack_event_link}}">#{{ page.slack_event_channel }}</a></li>
+      {% endif %}
+     </ul>
+     {{ locale['slack-why'] }}
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
