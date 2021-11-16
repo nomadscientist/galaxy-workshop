@@ -56,4 +56,4 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 ---
 
-Welcome to the GTÑ Experiment! Please make sure to update your **User | Preferences | Manage information | Preferred Language | Español**
+Welcome to the GTÑ Experiment! Please make sure to update your **User → Preferences → Manage information → Preferred Language → Español**
