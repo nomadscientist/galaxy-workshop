@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Spanscriptomics: Análisis de células únicas usando Galaxy"
-description: "Los días 29 y 30 de noviembre de 2021 organizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Formación de Galaxy"
+description: "Los días 29 y 30 de noviembre de 2021 realizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Formación de Galaxy (o GTN por sus siglas en inglés)"
 type: event
 format: async
 date_start: 2021-11-29

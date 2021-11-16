@@ -37,7 +37,7 @@ schedule:
 
     ngs:
       title: Single Cell
-      description: "Here we show you how to analyze your NGS data using Galaxy."
+      description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
         - link: transcriptomics-scrna-intro-slides-spanscriptomics
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial-spanscriptomics
@@ -54,6 +54,14 @@ schedule:
         All these materials will remain online, so you can continue working on them for as
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
+
+      post-course:
+        title: "Quieres cambiar la lengua?"
+        description: |
+          Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
+
+
+
 ---
 
-Welcome to the GTÑ Experiment!
+Welcome to the GTÑ Experiment! Thank you for participating in our study, we hope you learn all the skills you need for your research!
