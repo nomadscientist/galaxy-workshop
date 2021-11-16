@@ -56,7 +56,7 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
       post-course:
-        title: "Quieres cambiar la lengua?"
+        title: "Quieres cambiar idioma?"
         description: |
           Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
 
