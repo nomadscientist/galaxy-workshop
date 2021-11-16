@@ -32,7 +32,7 @@ schedule:
         - name: "Icebreaker: Introduce yourself in Slack!"
           type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-        - link: introduction/galaxy-intro-short/slides/es
+        - link: introduction/galaxy-intro-short/slides_es
         - link: introduction/galaxy-intro-short/tutorial/es
 
     ngs:

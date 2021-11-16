@@ -1052,7 +1052,7 @@ transcriptomics-scrna-intro-slides:
     link: D3qvYWZMFa0
     speaker: awspolly
 
-  transcriptomics-scrna-intro-slides_eng:
+transcriptomics-scrna-intro-slides_eng:
       description: |
           Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
           of transcriptomic research, used in high-throughput developmental studies
