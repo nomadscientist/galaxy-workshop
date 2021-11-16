@@ -436,7 +436,7 @@ meetnjoin_eng:
     and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*.
   material:
   - external: true
-    link: ""#GTN-equipo
+    link: "#GTN-equipo"
     title: Slack-GTÑ
     type: Help with GTÑ Projects
   - external: true
