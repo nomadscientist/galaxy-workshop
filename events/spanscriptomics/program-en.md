@@ -45,13 +45,14 @@ schedule:
 
     done:
       title: "All done?"
-      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! We'll send you a survey after the course - PLEASE fill it out. Thanks for joining!!"
+      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks so much for joining and we hope you learned a ton!!"
       sessions:
 
     post-course:
       title: "After the Course"
       description: |
-        All these materials will remain online, so you can continue working on them for as
+        We'll send you a survey after the course - PLEASE fill it out, as this is crucial for the GTÑ study on the impact of translating bioinformatics materials.
+        All the course materials will remain online, so you can continue working on them for as
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
@@ -63,4 +64,4 @@ schedule:
 
 ---
 
-Welcome to the GTÑ Experiment! Thank you for participating in our study, we hope you learn all the skills you need for your research!
+Welcome to the GTÑ Experiment!

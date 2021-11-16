@@ -1334,6 +1334,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial:
     length: 30M
     speaker: nomadscientist
 
+#English version in GTÑ experiment
 transcriptomics/droplet-quantification-preprocessing/tutorial_eng:
   name: 'Generating a single cell matrix using Alevin'
   description: |
@@ -1349,6 +1350,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_eng:
   support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
+  instructors: [nomadscientist, pinin4fjords]
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
@@ -1393,11 +1395,12 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_eng:
   material:
   - type: Tutorial
     link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
-  type: Self-Study with Video Walkthrough
+  type: Video Walkthrough
   support_channel: "#scRNA-final_eng"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
+  instructor: [nomadscientist]
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
