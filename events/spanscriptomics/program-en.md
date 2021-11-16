@@ -32,16 +32,16 @@ schedule:
         - name: "Icebreaker: Introduce yourself in Slack!"
           type: icebreaker-spanscriptomics
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-        - link: introduction/galaxy-intro-short/slides-spanscriptomics
-        - link: introduction/galaxy-intro-short/tutorial-spanscriptomics
+        - link: introduction/galaxy-intro-short/slides_eng
+        - link: introduction/galaxy-intro-short/tutorial_eng
 
     ngs:
       title: Single Cell
       description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
-        - link: transcriptomics-scrna-intro-slides-spanscriptomics
-        - link: transcriptomics/droplet-quantification-preprocessing/tutorial-spanscriptomics
-        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial-spanscriptomics
+        - link: transcriptomics-scrna-intro-slides_eng
+        - link: transcriptomics/droplet-quantification-preprocessing/tutorial_eng
+        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial_eng
 
     done:
       title: "All done?"
@@ -55,12 +55,11 @@ schedule:
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
-      post-course:
+#thisneedslotsofprogramminghelp
+      post-course_eng:
         title: "Quieres cambiar idioma?"
         description: |
           Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
-
-
 
 ---
 

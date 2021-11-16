@@ -91,7 +91,7 @@ Como parte del estudio de investigación, te enviaremos al final del taller, una
 ## Agradecimientos
 
 Este taller sólo ha sido posible gracias a nuestro fabuloso equipo y sus instituciones colaboradoras.
-¡Agradecemos por la donación de [The Company of Biologists](https://www.biologists.com/)!
+¡Agradecemos a [The Company of Biologists](https://www.biologists.com/) por sus donaciones!
 
 ### Presentadores, instructoras/es, facilitadoras/es, organizadoras/es y resto del personal
 
