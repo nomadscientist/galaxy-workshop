@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Single cell analysis using Galaxy
+title: Spanscriptomics: Single cell analysis using Galaxy
 type: track
 site_title: GTÑ
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"

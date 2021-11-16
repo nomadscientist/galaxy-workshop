@@ -436,7 +436,7 @@ meetnjoin_eng:
     and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*.
   material:
   - external: true
-    link: "#GTN-equipo"
+    link: Channel "#GTN-equipo"
     title: Slack-GTÑ
     type: Help with GTÑ Projects
   - external: true
@@ -1070,6 +1070,7 @@ transcriptomics-scrna-intro-slides_eng:
       faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
       type: Lecture
       tags: [transcriptomics, single-cell]
+      instructor: [mtekman]
       videos:
       - captions:
         - mtekman
@@ -1282,6 +1283,7 @@ introduction/galaxy-intro-short/slides_eng:
   support_link: "TODO"
   faq: "TODO"
   tags: [gtñ]
+  instructors: [shiltemann, hexylena, nsoranzo]
   videos:
   - captions: [shiltemann, hexylena]
     event_name: GTÑ
@@ -1300,6 +1302,7 @@ introduction/galaxy-intro-short/tutorial_eng:
   type: Tutorial
   support_channel: "#galaxy_eng"
   support_link: "TODO"
+  instructors: [annasyme, nsoranzo]
   faq: "TODO"
   tags: [gtñ]
   videos:
@@ -1341,7 +1344,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_eng:
   material:
   - type: Tutorial
     link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html
-  type: Self-Study with Video Walkthrough
+  type: Video Walkthrough
   support_channel: "#scRNA-alevin_eng"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
@@ -1461,6 +1464,7 @@ transcriptomics/scrna-intro/slides/es:
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
   tags: [transcriptomics, single-cell]
+  instructor: mtekman
   videos:
   - captions:
     - mtekman

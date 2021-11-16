@@ -23,6 +23,11 @@ cnrs:
   link: "https://www.cnrs.fr/"
   logo: cnrs.svg
 
+earlham:
+  name: Earlham Institute
+  link: "https://www.earlham.ac.uk"
+  logo: earlham-institute-logo.png
+
 ebi:
   name: EMBL-EBI
   link: "https://www.ebi.ac.uk/"
@@ -127,10 +132,8 @@ UniQuilmes:
    link: "http://www.unq.edu.ar/"
    logo: Double-logo.png
 
-  
-companyofbiologists:   
+
+companyofbiologists:
   name: Company of Biologists
   link: "https://www.biologists.com/"
-  logo:  CoBiologists_logo.png 
-  
-
+  logo:  CoBiologists_logo.png
