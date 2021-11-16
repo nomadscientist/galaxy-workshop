@@ -101,6 +101,11 @@ ncbi:
   link: "https://www.ncbi.nlm.nih.gov/"
   logo: ncbi.png
 
+ou:
+  name: The Open University
+  link: "https://www.open.ac.uk"
+  logo: OU.logo.png
+
 pennstate:
   name: Penn State University
   link: "https://www.psu.edu/"
@@ -121,3 +126,11 @@ UniQuilmes:
    name: Universidad Nacional de Quilmes/CONICET
    link: "http://www.unq.edu.ar/"
    logo: Double-logo.png
+
+  
+companyofbiologists:   
+  name: Company of Biologists
+  link: "https://www.biologists.com/"
+  logo:  CoBiologists_logo.png 
+  
+
