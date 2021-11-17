@@ -21,8 +21,6 @@ instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
   - ales-ibt
   - pclo
-  - shiltemann
-  - hexylena
   - beatrizserrano
   - Irelka Colina
   - Jolene Ramsey
@@ -35,6 +33,8 @@ instructors:
   - Vinicius
   - Montserrat Ve Go
   - Veronica Olivo Pimentel
+  - shiltemann
+  - hexylena
 
 
 

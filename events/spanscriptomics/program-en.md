@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Spanscriptomics: Single cell analysis using Galaxy
+title: "Spanscriptomics: Single cell analysis using Galaxy"
 type: track
 site_title: GTÑ
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
@@ -21,8 +21,6 @@ instructors:
   - nomadscientist
   - ales-ibt
   - pclo
-  - shiltemann
-  - hexylena
   - beatrizserrano
   - Irelka Colina
   - Jolene Ramsey
@@ -35,6 +33,8 @@ instructors:
   - Vinicius
   - Montserrat Ve Go
   - Veronica Olivo Pimentel
+  - shiltemann
+  - hexylena
 
 
 

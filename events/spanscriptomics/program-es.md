@@ -21,8 +21,6 @@ instructors:
   - nomadscientist
   - ales-ibt
   - pclo
-  - shiltemann
-  - hexylena
   - beatrizserrano
   - Irelka Colina
   - Jolene Ramsey
@@ -35,6 +33,8 @@ instructors:
   - Vinicius
   - Montserrat Ve Go
   - Veronica Olivo Pimentel
+  - shiltemann
+  - hexylena
 
 schedule:
     day1:
