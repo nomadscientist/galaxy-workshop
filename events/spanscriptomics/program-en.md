@@ -51,7 +51,7 @@ schedule:
       description: "Today we start by introducing the Galaxy Platform"
       sessions:
         - name: "Icebreaker: Introduce yourself in Slack!"
-          type: icebreaker_eng
+          type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
         - link: introduction/galaxy-intro-short/slides_eng
         - link: introduction/galaxy-intro-short/tutorial_eng
