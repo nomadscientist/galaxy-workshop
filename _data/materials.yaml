@@ -1276,7 +1276,7 @@ introduction/galaxy-intro-short/slides_eng:
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/slides.html
     title: A short introduction to Galaxy
-    type: slides
+    type: Slides
   name: 'A short introduction to Galaxy (Slides)'
   type: Tutorial
   support_channel: "#galaxy_eng"
@@ -1420,7 +1420,7 @@ introduction/galaxy-intro-short/slides_es:
   type: Tutorial
   support_channel: "#galaxy-intro-short"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: []
@@ -1440,7 +1440,7 @@ introduction/galaxy-intro-short/tutorial/es:
   type: Tutorial
   support_channel: "#galaxy-intro-short-ES"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: [nomadscientist, Maria Bernardi]
@@ -1529,7 +1529,7 @@ introduction/galaxy-intro-short/slides/cat:
   material:
   - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
     title: Una breve introducción a Galaxy
-    type: slides
+    type: Slides
   name: 'Una breve introducción a Galaxy (Slides)'
   type: Tutorial
   support_channel: "#galaxy-intro-short-CAT"
