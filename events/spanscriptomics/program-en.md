@@ -16,6 +16,7 @@ lang: en
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
+logo: events/spanscriptomics/logo.png
 
 schedule:
     day1:
