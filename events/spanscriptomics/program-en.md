@@ -85,4 +85,4 @@ schedule:
 
 ---
 
-Welcome to the GTÑ Experiment!
+Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/)
