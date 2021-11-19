@@ -33,7 +33,7 @@ logo: events/spanscriptomics/logo.png
   - StefyDreptate
 #additional trainers
   - pcm32
-  - Vinicius
+  - Vinicius Maracaja-Coutinho
   - Eucaliptovni
   - Veronica Olivo Pimentel
 
