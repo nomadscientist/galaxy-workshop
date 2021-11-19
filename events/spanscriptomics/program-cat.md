@@ -42,8 +42,8 @@ schedule:
       title: Bienvenida e información práctica
       sessions:
         - name: "Prepárate para el curso"
-          type: setup
-        - link: meetnjoin
+          type: setup-euonly
+        - link: meetnjoin_eng
 
     galaxy-intro:
       title: "Introducción a Galaxy"
