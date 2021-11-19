@@ -71,15 +71,13 @@ schedule:
 
     done:
       title: ¿Todo listo?
-      description: "¡No dudes en pasar el rato en Slack y hablar con nosotros y con el resto de la comunidad Galaxy! ¡¡Gracias por unirte!!"
+      description: "¡No dudes en pasar el rato en Slack y hablar con nosotros y con el resto de la comunidad Galaxy! ¡Muchas gracias por unirte y esperamos que hayas aprendido mucho!"
       sessions:
 
     post-course:
       title: Después del curso
       description: |
-        Todos estos materiales permanecerán en línea, por lo que podrá seguir trabajando en ellos durante un tiempo
-        tanto tiempo como quieras. La única diferencia será que debes hacer tus preguntas.
-        en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de Slack.
+        Le enviaremos una encuesta después del curso. POR FAVOR, complétela, ya que esto es crucial para el estudio GTÑ sobre el impacto de la traducción de materiales bioinformáticos. Todos los materiales del curso permanecerán en línea, por lo que podrá seguir trabajando en ellos todo el tiempo que desee. La única diferencia será que debe hacer sus preguntas en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de en Slack.
 ---
 
-¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí] (https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/)
+¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí] (https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/). Se le ha asignado al equipo ENG. Todos estos son recursos bioinformáticos originales en inglés. Puede encontrar los botones para cambiar de equipo (¡si lo desea!) En la parte inferior de esta página. ¡Asegúrese de tener en cuenta que cambió en la encuesta posterior al curso!
