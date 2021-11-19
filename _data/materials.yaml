@@ -1623,32 +1623,32 @@ introduction/galaxy-intro-short/slides/cat:
   tags: [gtñ]
   instructors: [shiltemann, hexylena, nsoranzo]
   videos:
-  - captions: [shiltemann, hexylena]
+  - captions: [shiltemann, hexylena, nomadscientist]
     event_name: GTÑ
     length: 6M
-    link: IRdlOcVgjRY
+    link: #todo
     speaker: awspolly
 
 introduction/galaxy-intro-short/tutorial/cat:
   description: |
-      TODO
+      Esta es su oportunidad de aprender a navegar por Galaxy, antes de comenzar a usarlo para analizar datos de una sola celda. Cuando haya terminado, asegúrese de guardar su primer historial (¡sin importar cuántos errores haya!) Para enviarlo al final del taller. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
   - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Ftutorial.html&edit-text=&act=url"
     title: Una breve introducción a Galaxy
     type: Tutorial
-  name: 'A short introduction to Galaxy (Tutorial)'
+  name: 'Una breve introducción a Galaxy (Tutorial)'
   type: Tutorial
-  support_channel: "#galaxy-intro-short-CAT"
+  support_channel: "#galaxy-cat"
   support_link: "TODO"
   faq: "TODO"
   tags: [gtñ]
-  videos: []
-  #- captions: [nomadscientist]
-    #event_name: GTÑ
-    #length: 50M
-    #link: Kh89__cuDwQ
-    #speaker: nomadscientist
-    #
+  videos:
+  - captions: [nomadscientist]
+    event_name: GTÑ
+    length: 5M
+    link: Kh89__cuDwQ
+    speaker: nomadscientist
+
 transcriptomics/scrna-intro/slides/cat:
   description: |
     El análisis de secuencia de ARN de una sola célula es un campo en rápida

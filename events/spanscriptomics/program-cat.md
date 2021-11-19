@@ -41,6 +41,8 @@ instructors:
   - Eucaliptovni
   - Veronica Olivo Pimentel
 
+#to add: How to change your Galaxy Preferences to Spanish language
+
 schedule:
     day1:
       title: Bienvenida e información práctica
