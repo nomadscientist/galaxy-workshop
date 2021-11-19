@@ -112,6 +112,10 @@ ennovytje:
     name: Yvonne Hiltemann
     affiliation: barharbourinn
 
+Eucaliptovni:
+  name: Montserrat Vega-Gordillo
+  affiliation: 
+
 foellmelanie:
     name: Melanie Föll
     affiliation: freiburg-uniklinik-surgpathol
@@ -218,11 +222,15 @@ nekrut:
 
 nomadscientist:
     name: Wendi Bacon
-    affiliation: ou
+    affiliation: ebi
 
 pclo:
     name: Patricia Carvajal López
     affiliation: ebi
+
+pcm32:
+  name: Pablo Moreno
+  affiliation: ebi
 
 pratikdjagtap:
     name: Pratik Jagtap
@@ -290,6 +298,23 @@ npalopoli:
 melibleq:
     name: Melissa Black
     affiliation:
+
 IrelCM:
     name: Irelka Colina
     affiliation:
+
+StefyDreptate:
+    name: Stefana Dreptate
+    affilitation: ou
+
+jrr-cpt:
+    name: Jolene Ramsey
+    affilitation: tamu
+
+Lgallegovillar:
+    name: Lorena Gallego Villar
+    affiliation: UnikFreiberg
+
+mtbernardi:
+  name: María Bernardi
+  affiliation: uba

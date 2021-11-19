@@ -23,6 +23,11 @@ cnrs:
   link: "https://www.cnrs.fr/"
   logo: cnrs.svg
 
+earlham:
+  name: Earlham Institute
+  link: "https://www.earlham.ac.uk"
+  logo: earlham-institute-logo.png
+
 ebi:
   name: EMBL-EBI
   link: "https://www.ebi.ac.uk/"
@@ -122,15 +127,27 @@ slu:
   link: "https://www.slu.se"
   logo: slu.png
 
+tamu:
+  name: Texas A&M University, Center for Phage Technology
+  link: "https://cpt.tamu.edu/"
+  logo:  tamu_logo.png
+
 UniQuilmes:
    name: Universidad Nacional de Quilmes/CONICET
    link: "http://www.unq.edu.ar/"
    logo: Double-logo.png
 
-  
-companyofbiologists:   
+UnikFreiberg:
+  name: Uniklinik Freiburg
+  link: "https://www.uniklinik-freiburg.de/de.html"
+  logo: uniklink_logo.png
+
+uba:
+  name: Faculty of Exact and Natural Sciences - University of Buenos Aires
+  link: "http://www.iquibicen.fcen.uba.ar/"
+  logo: uba_logo.png
+
+companyofbiologists:
   name: Company of Biologists
   link: "https://www.biologists.com/"
-  logo:  CoBiologists_logo.png 
-  
-
+  logo:  CoBiologists_logo.png
