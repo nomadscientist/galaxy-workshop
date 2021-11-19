@@ -218,10 +218,18 @@ nekrut:
 
 nomadscientist:
     name: Wendi Bacon
-    affiliation: ebi
+    affiliation: ou
+
+nsoranzo:
+    name: Nicola Soranzo
+    affiliation: earlham
 
 pclo:
     name: Patricia Carvajal López
+    affiliation: ebi
+
+pinin4fjords:
+    name: Jonathan Manning
     affiliation: ebi
 
 pratikdjagtap:
