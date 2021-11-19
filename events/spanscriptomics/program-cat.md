@@ -43,7 +43,7 @@ schedule:
       sessions:
         - name: "Prepárate para el curso"
           type: setup_euonly
-        - link: meetnjoin_CAT
+        - link: meetnjoin_cat
 
     galaxy-intro:
       title: "Introducción a Galaxy"
@@ -76,4 +76,4 @@ schedule:
         en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de Slack.
 ---
 
-Bienvenido al experimento GTÑ!
+¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí] (https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/)

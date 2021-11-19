@@ -517,6 +517,91 @@ meetnjoin_eng:
     link: -YE_QLodIe_w
     speaker: ales-ibt
 
+  meetnjoin_cat:
+      description: ¡Este breve video ofrece una descripción general del proyecto GTÑ hecho posible por la comunidad Galaxy, y diferentes formas en las que puedes participar! *Video creado por Alejandra Escobar-Zepeda*.
+      material:
+      - external: true
+        link: Canal "#GTN-equipo"
+        title: Slack-GTÑ
+        type: Ayuda con proyectos GTÑ
+      - external: true
+        link: https://galaxyproject.org
+        title: galaxyproject.org
+        type: GalaxyProject Hogar
+      - external: true
+        link: https://galaxyproject.org/use/
+        title: ¡Encuentra un servidor Galaxy cerca de ti!
+        type: Servidores Galaxy
+      - external: true
+        link: https://training.galaxyproject.org
+        title: Empiece a aprender Galaxy
+        type: Red de formación Galaxy
+      - external: true
+        link: https://help.galaxyproject.org/
+        title: Foro de ayuda de Galaxy
+        type: Apoyo
+      - external: true
+        link: https://www.zotero.org/groups/1732893/galaxy
+        title: Zotero
+        type: Publicaciones Galaxy
+      - external: true
+        link: https://galaxyproject.org/community/
+        title: Encuentra y únete a una comunidad
+        type: Comunidades Galaxy
+      - external: true
+        link: https://galaxyproject.org/events/
+        title: Horizonte de sucesos de galaxias
+        type: Eventos
+      - external: true
+        link: https://galaxyproject.org/mailing-lists/
+        title: ¡Manténgase informado de la actividad de Galaxy!
+        type: Listas de correo
+      - external: true
+        link: https://galaxyproject.org/community/wg/
+        title: Encuentra y únete a un grupo de trabajo
+        type: Grupos de trabajo Galaxy
+      - external: true
+        link: https://github.com/galaxyproject
+        title: galaxyproject
+        type: GitHub
+      - external: true
+        link: https://gitter.im/galaxyproject/Lobby
+        title: ¡Empiece a hablar con la comunidad Galaxy!
+        type: Chat de cuadrícula
+      - external: true
+        link: https://gitter.im/Galaxy-Training-Network/Lobby
+        title: ¡Únase a la discusión de capacitación aquí!
+        type: GTN Gitter
+      - external: true
+        link: https://galaxyproject.org/events/2021-02-papercuts/
+        title: Festival de colaboración mensual
+        type: PaperCuts
+      - external: true
+        link: https://github.com/galaxyproject/training-material/issues/1712
+        title: ¡Todos bienvenidos!
+        type: GTN CoFest
+      - external: true
+        link: https://twitter.com/search?q=%23spanscriptomics&src=typed_query&f=top
+        title: seguir Spanscriptomics
+        type: Twitter
+      - external: true
+        link: https://twitter.com/galaxyproject
+        title: seguir @galaxyproject
+        type: Twitter
+      - external: true
+        link: https://twitter.com/gxytraining
+        title: sigue el GTN @gxytraining
+        type: Twitter
+      name: ¡Conoce y únete al trabajo de formación de Galaxy!
+      tags: [meta]
+      videos:
+      - captions:
+        - ales-ibt
+        event_name: Spanscriptomics
+        length: 3M
+        link: -YE_QLodIe_w
+        speaker: ales-ibt
+
 metagenomics-mothur-miseq-sop-short-slides:
   description: |
       This lecture briefly introduces 16S sequencing, a popular technique used
