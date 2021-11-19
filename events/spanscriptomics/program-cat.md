@@ -31,10 +31,10 @@ logo: events/spanscriptomics/logo.png
   - melibleq
   - npalopoli
   - StefyDreptate
-#trainers
+#additional trainers
   - pcm32
-  - Vinicius
-  - Montserrat Ve Go
+  - Vinicius Maracaja-Coutinho
+  - Eucaliptovni
   - Veronica Olivo Pimentel
 
 schedule:
@@ -42,8 +42,8 @@ schedule:
       title: Bienvenida e información práctica
       sessions:
         - name: "Prepárate para el curso"
-          type: setup-euonly
-        - link: meetnjoin_eng
+          type: setup_euonly
+        - link: meetnjoin_cat
 
     galaxy-intro:
       title: "Introducción a Galaxy"
