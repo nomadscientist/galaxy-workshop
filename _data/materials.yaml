@@ -1534,7 +1534,7 @@ introduction/galaxy-intro-short/tutorial/es:
     link: ij01h_CAodA
     speaker: ales-ibt
 
-transcriptomics/scrna-intro/slides/es:
+transcriptomics/scrna-intro/slides_eng:
   description: |
       T/N Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
       of transcriptomic research, used in high-throughput developmental studies
@@ -1608,7 +1608,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
     speaker: ales-ibt
 
 # Computer Aided Translation (not catalunya)
-introduction/galaxy-intro-short/slides/cat:
+introduction/galaxy-intro-short/slides_cat:
   description: |
       Esta breve introducción a Galaxy le dirá por qué es tan bueno para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
   material:
@@ -1629,7 +1629,7 @@ introduction/galaxy-intro-short/slides/cat:
     link: #todo
     speaker: awspolly
 
-introduction/galaxy-intro-short/tutorial/cat:
+introduction/galaxy-intro-short/tutorial_cat:
   description: |
       Esta es su oportunidad de aprender a navegar por Galaxy, antes de comenzar a usarlo para analizar datos de una sola celda. Cuando haya terminado, asegúrese de guardar su primer historial (¡sin importar cuántos errores haya!) Para enviarlo al final del taller. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
@@ -1649,7 +1649,7 @@ introduction/galaxy-intro-short/tutorial/cat:
     link: Kh89__cuDwQ
     speaker: nomadscientist
 
-transcriptomics/scrna-intro/slides/cat:
+transcriptomics/scrna-intro/slides_cat:
   description: |
     El análisis de secuencia de ARN de una sola célula es un campo en rápida
     evolución a la vanguardia de la investigación transcriptómica, que se
@@ -1664,53 +1664,59 @@ transcriptomics/scrna-intro/slides/cat:
     title: Introducción al análisis de datos de scRNA-Seq
     type: Diapositivas
   name: Introducción al análisis de datos de scRNA-Seq
-  support_channel: "#transcriptomics_single-cell-rnaseq"
+  support_channel: "#scrna-intro-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
   tags: [transcriptomics, single-cell]
   videos:
   - captions:
-    - mtekman
+    - mtekman, nomadscientist
     event_name: Smörgåsbord
     length: 20M
     link: D3qvYWZMFa0
     speaker: awspolly
 
-transcriptomics/droplet-quantification-preprocessing/tutorial/cat:
+transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
   name: Generando una matriz de una sola célula usando Alevin
   description: |
       Este tutorial lo llevará de archivos FASTQ sin procesar a una matriz de
       datos de genes de celda x en formato AnnData. ¿Qué es una matriz de datos
       y qué es el formato AnnData? ¡Bueno, lo descubrirás! Es importante
       destacar que este es el primer paso en el procesamiento de datos de una
-      sola celda para comenzar a analizarlos.%
+      sola celda para comenzar a analizarlos. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
   type: Autoestudio con tutorial en video
-  support_channel: "#transcriptomics_single-cell-matrix-alevin-CAT"
-  support_link:
-  faq:
+  support_channel: "#scrna-alevin-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
-  videos: []
+instructors: [nomadscientist, pinin4fjords]
+  videos:
+  - captions: [nomadscientist]
+    event_name: GTÑ
+    link: 3ytm2AU6QUc
+    length: 30M
+    speaker: nomadscientist
 
-transcriptomics/scrna-seq-basic-pipeline/tutorial/cat:
+transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
   name: Filtrar, trazar y explorar datos de secuencia de ARN de una sola célula
   description: |
-      Ha hecho todo el trabajo para crear una matriz de una sola célula, con
-      recuentos de genes y recuentos de mitocondrias y cubos de metadatos
-      celulares de todas sus variables de interés, ahora es el momento de
-      procesar completamente nuestros datos, eliminar células de baja calidad,
-      reducir el muchas dimensiones de datos que hacen que sea difícil trabajar
-      con ellos y, en última instancia, tratar de definir nuestros grupos y
-      encontrar nuestro significado biológico y conocimientos.
+      Ha hecho todo el trabajo para hacer una matriz de una sola célula, con recuentos de genes y recuentos de mitocondrias y cubos de metadatos de células de todas sus variables de interés, ahora es el momento de procesar completamente nuestros datos, eliminar células de baja calidad, reducir el muchas dimensiones de datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y encontrar nuestro significado y conocimientos biológicos.
+      Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
   type: Autoestudio con tutorial en video
-  support_channel: "#transcriptomics_single-cell-filter-plot-explore-CAT"
-  support_link:
-  faq:
+  support_channel: "#scrna-final-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
-  videos: []
+  videos:
+  - captions: [nomadscientist]
+    event_name: GTÑ
+    link: M6iepSJh0EQ
+    length: 30M
+    speaker: nomadscientist

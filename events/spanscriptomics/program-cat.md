@@ -58,16 +58,16 @@ schedule:
         - name: "Rompehielos: ¡Preséntate en Slack!"
           type: icebreaker
           prompt: "Preséntese, díganos desde dónde se une y una cosa sobre su entorno (por ejemplo, está nevando afuera, hay una ardilla en mi porche, mi gato está en mi teclado)"
-        - link: introduction/galaxy-intro-short/slides/cat
-        - link: introduction/galaxy-intro-short/tutorial/cat
+        - link: introduction/galaxy-intro-short/slides_cat
+        - link: introduction/galaxy-intro-short/tutorial_cat
 
     ngs:
       title: Unicelular
-      description: "Aquí le mostramos cómo analizar sus datos NGS usando Galaxy."
+      description: "Aquí le mostramos cómo analizar sus datos de una sola celda usando Galaxy."
       sessions:
-        - link: transcriptomics/scrna-intro/slides/cat
-        - link: transcriptomics/droplet-quantification-preprocessing/tutorial/cat
-        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial/cat
+        - link: transcriptomics/scrna-intro/slides_cat
+        - link: transcriptomics/droplet-quantification-preprocessing/tutorial_cat
+        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial_cat
 
     done:
       title: ¿Todo listo?
