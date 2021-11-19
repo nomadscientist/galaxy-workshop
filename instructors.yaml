@@ -218,18 +218,10 @@ nekrut:
 
 nomadscientist:
     name: Wendi Bacon
-    affiliation: ou
-
-nsoranzo:
-    name: Nicola Soranzo
-    affiliation: earlham
+    affiliation: ebi
 
 pclo:
     name: Patricia Carvajal López
-    affiliation: ebi
-
-pinin4fjords:
-    name: Jonathan Manning
     affiliation: ebi
 
 pratikdjagtap:
@@ -298,7 +290,23 @@ npalopoli:
 melibleq:
     name: Melissa Black
     affiliation:
-    
+
 IrelCM:
     name: Irelka Colina
     affiliation:
+
+StefyDreptate:
+    name: Stefana Dreptate
+    affilitation: ou
+
+jrr-cpt:
+    name: Jolene Ramsey
+    affilitation: tamu
+
+Lgallegovillar:
+    name: Lorena Gallego Villar
+    affiliation: UnikFreiberg
+
+mtbernardi:
+  name: María Bernardi
+  affiliation: uba
