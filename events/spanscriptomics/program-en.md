@@ -43,7 +43,7 @@ schedule:
       sessions:
         - name: "Get set up for the course"
           type: setup-euonly
-        - link: meetnjoin
+        - link: meetnjoin_eng
 
     galaxy-intro:
       title: "Introduction to Galaxy"
