@@ -431,6 +431,92 @@ meetnjoin:
     link: -1MPdxmRs8U
     speaker: galaxycommunity
 
+meetnjoin_eng:
+  description: This short video gives an overview of the GTÑ project made possible by the Galaxy community,
+    and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*.
+  material:
+  - external: true
+    link: Channel "#GTN-equipo"
+    title: Slack-GTÑ
+    type: Help with GTÑ Projects
+  - external: true
+    link: https://galaxyproject.org
+    title: galaxyproject.org
+    type: GalaxyProject Home
+  - external: true
+    link: https://galaxyproject.org/use/
+    title: Find a Galaxy server near you!
+    type: Galaxy servers
+  - external: true
+    link: https://training.galaxyproject.org
+    title: Start learning Galaxy
+    type: Galaxy Training Network
+  - external: true
+    link: https://help.galaxyproject.org/
+    title: Galaxy Help Forum
+    type: Support
+  - external: true
+    link: https://www.zotero.org/groups/1732893/galaxy
+    title: Zotero
+    type: Galaxy Publications
+  - external: true
+    link: https://galaxyproject.org/community/
+    title: Find and Join a community
+    type: Galaxy Communities
+  - external: true
+    link: https://galaxyproject.org/events/
+    title: Galaxy Event Horizon
+    type: Events
+  - external: true
+    link: https://galaxyproject.org/mailing-lists/
+    title: Stay informed of Galaxy activity!
+    type: Mailing Lists
+  - external: true
+    link: https://galaxyproject.org/community/wg/
+    title: Find and join a WG
+    type: Galaxy Working Groups
+  - external: true
+    link: https://github.com/galaxyproject
+    title: galaxyproject
+    type: GitHub
+  - external: true
+    link: https://gitter.im/galaxyproject/Lobby
+    title: Start talking with the Galaxy Community!
+    type: Gitter Chat
+  - external: true
+    link: https://gitter.im/Galaxy-Training-Network/Lobby
+    title: Join the training discussion here!
+    type: GTN Gitter
+  - external: true
+    link: https://galaxyproject.org/events/2021-02-papercuts/
+    title: Monthly Collaboration Fest
+    type: PaperCuts
+  - external: true
+    link: https://github.com/galaxyproject/training-material/issues/1712
+    title: Everybody Welcome!
+    type: GTN CoFest
+  - external: true
+    link: https://twitter.com/search?q=%23spanscriptomics&src=typed_query&f=top
+    title: follow Spanscriptomics
+    type: Twitter
+  - external: true
+    link: https://twitter.com/galaxyproject
+    title: follow @galaxyproject
+    type: Twitter
+  - external: true
+    link: https://twitter.com/gxytraining
+    title: follow the GTN @gxytraining
+    type: Twitter
+  name: Meet & Join the Galaxy Training Ñetwork!
+  tags: [meta]
+  videos:
+  - captions:
+    - ales-ibt
+    event_name: Spanscriptomics
+    length: 3M
+    link: -YE_QLodIe_w
+    speaker: ales-ibt
+
 metagenomics-mothur-miseq-sop-short-slides:
   description: |
       This lecture briefly introduces 16S sequencing, a popular technique used
@@ -966,6 +1052,33 @@ transcriptomics-scrna-intro-slides:
     link: D3qvYWZMFa0
     speaker: awspolly
 
+transcriptomics-scrna-intro-slides_eng:
+      description: |
+          Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
+          of transcriptomic research, used in high-throughput developmental studies
+          and rare transcript studies to examine cell heterogeneity within a
+          populations of cells. The cellular resolution and genome wide scope make
+          it possible to draw new conclusions that are not otherwise possible with
+          bulk RNA-seq. *Slides created by Mehmet Tekman*
+      material:
+      - link: topics/transcriptomics/tutorials/scrna-intro/slides.html
+        title: An introduction to scRNA-Seq data analysis
+        type: Slides
+      name: An introduction to scRNA-seq data analysis
+      support_channel: "#scRNA-intro_eng"
+      support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+      faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
+      type: Lecture
+      tags: [transcriptomics, single-cell]
+      instructor: [mtekman]
+      videos:
+      - captions:
+        - mtekman
+        event_name: GTÑ
+        length: 20M
+        link: D3qvYWZMFa0
+        speaker: awspolly
+
 transcriptomics-scrna-preprocessing-tenx:
   description: |
       10x genomics has provided not only a cost-effective high-throughput
@@ -1157,43 +1270,45 @@ visualisation-jbrowse:
 
 
 
-introduction/galaxy-intro-short/slides:
+introduction/galaxy-intro-short/slides_eng:
   description: |
-      TODO
+      This short introduction to Galaxy will tell you why it's so great for accessibility, reproducibility and sustainability of bioinformatics training.
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/slides.html
     title: A short introduction to Galaxy
-    type: slides
+    type: Slides
   name: 'A short introduction to Galaxy (Slides)'
   type: Tutorial
-  support_channel: "#galaxy-intro-short"
+  support_channel: "#galaxy_eng"
   support_link: "TODO"
   faq: "TODO"
   tags: [gtñ]
+  instructors: [shiltemann, hexylena, nsoranzo]
   videos:
   - captions: [shiltemann, hexylena]
     event_name: GTÑ
-    length: TODO
+    length: 6M
     link: IRdlOcVgjRY
     speaker: awspolly
 
-introduction/galaxy-intro-short/tutorial:
+introduction/galaxy-intro-short/tutorial_eng:
   description: |
-      TODO
+      This is your opportunity to learn how to navigate Galaxy, before we get into using it to analyse single cell data. When you're done, make sure to save your first history (no matter how many mistakes there are!) for submitting at the end of the workshop!
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/tutorial.html
     title: A short introduction to Galaxy
     type: Tutorial
   name: 'A short introduction to Galaxy (Tutorial)'
   type: Tutorial
-  support_channel: "#galaxy-intro-short"
+  support_channel: "#galaxy_eng"
   support_link: "TODO"
+  instructors: [annasyme, nsoranzo]
   faq: "TODO"
   tags: [gtñ]
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
-    length: 50M
+    length: 5M
     link: Kh89__cuDwQ
     speaker: nomadscientist
 
@@ -1212,6 +1327,30 @@ transcriptomics/droplet-quantification-preprocessing/tutorial:
   support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
+  videos:
+  - captions: [nomadscientist]
+    event_name: GTÑ
+    link: 3ytm2AU6QUc
+    length: 30M
+    speaker: nomadscientist
+
+#English version in GTÑ experiment
+transcriptomics/droplet-quantification-preprocessing/tutorial_eng:
+  name: 'Generating a single cell matrix using Alevin'
+  description: |
+      This tutorial will take you from raw FASTQ files to a cell x gene data
+      matrix in AnnData format. What’s a data matrix, and what’s AnnData
+      format? Well you’ll find out! Importantly, this is the first step in
+      processing single cell data in order to start analysing it.
+  material:
+  - type: Tutorial
+    link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html
+  type: Video Walkthrough
+  support_channel: "#scRNA-alevin_eng"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
+  tags: [gtñ]
+  instructors: [nomadscientist, pinin4fjords]
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
@@ -1243,10 +1382,34 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
     length: 30M
     speaker: nomadscientist
 
-
+#English version in GTÑ experiment
+transcriptomics/scrna-seq-basic-pipeline/tutorial_eng:
+  name: Filter, Plot and Explore Single-cell RNA-seq Data
+  description: |
+      You've done all the work to make a single cell matrix, with gene counts
+      and mitochondrial counts and buckets of cell metadata from all your
+      variables of interest, now it’s time to fully process our data, to remove
+      low quality cells, to reduce the many dimensions of data that make it
+      difficult to work with, and ultimately to try to define our clusters and
+      to find our biological meaning and insights!
+  material:
+  - type: Tutorial
+    link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
+  type: Video Walkthrough
+  support_channel: "#scRNA-final_eng"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
+  tags: [gtñ]
+  instructor: [nomadscientist]
+  videos:
+  - captions: [nomadscientist]
+    event_name: GTÑ
+    link: M6iepSJh0EQ
+    length: 30M
+    speaker: nomadscientist
 
 # ¡Español!
-introduction/galaxy-intro-short/slides/es:
+introduction/galaxy-intro-short/slides_es:
   description: |
       TODO
   material:
@@ -1257,7 +1420,7 @@ introduction/galaxy-intro-short/slides/es:
   type: Tutorial
   support_channel: "#galaxy-intro-short"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: []
@@ -1277,7 +1440,7 @@ introduction/galaxy-intro-short/tutorial/es:
   type: Tutorial
   support_channel: "#galaxy-intro-short-ES"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: [nomadscientist, Maria Bernardi]
@@ -1304,6 +1467,7 @@ transcriptomics/scrna-intro/slides/es:
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
   tags: [transcriptomics, single-cell]
+  instructor: mtekman
   videos:
   - captions:
     - mtekman
@@ -1365,7 +1529,7 @@ introduction/galaxy-intro-short/slides/cat:
   material:
   - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
     title: Una breve introducción a Galaxy
-    type: slides
+    type: Slides
   name: 'Una breve introducción a Galaxy (Slides)'
   type: Tutorial
   support_channel: "#galaxy-intro-short-CAT"

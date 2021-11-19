@@ -17,6 +17,25 @@ tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
+#organisers & trainers
+  - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
+  - ales-ibt
+  - pclo
+  - shiltemann
+  - hexylena
+  - beatrizserrano
+  - IrelCM
+  - jrr-cpt
+  - Lgallegovillar
+  - mtbernardi
+  - melibleq
+  - npalopoli
+  - StefyDreptate
+#trainers
+  - pcm32
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
 
 schedule:
     day1:
