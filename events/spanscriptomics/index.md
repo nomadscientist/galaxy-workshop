@@ -9,6 +9,7 @@ instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
   - ales-ibt
+  - pclo
   - shiltemann
   - hexylena
   - beatrizserrano
@@ -20,7 +21,10 @@ instructors:
   - npalopoli
   - StefyDreptate
 #trainers
-  - pclo
+  - pcm32
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
 
 
 image: /events/spanscriptomics/logo.png

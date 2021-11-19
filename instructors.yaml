@@ -112,6 +112,10 @@ ennovytje:
     name: Yvonne Hiltemann
     affiliation: barharbourinn
 
+Eucaliptovni:
+  name: Montserrat Vega-Gordillo
+  affiliation: 
+
 foellmelanie:
     name: Melanie Föll
     affiliation: freiburg-uniklinik-surgpathol
@@ -223,6 +227,10 @@ nomadscientist:
 pclo:
     name: Patricia Carvajal López
     affiliation: ebi
+
+pcm32:
+  name: Pablo Moreno
+  affiliation: ebi
 
 pratikdjagtap:
     name: Pratik Jagtap
