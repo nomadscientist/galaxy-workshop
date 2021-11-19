@@ -65,7 +65,7 @@ schedule:
       title: Single Cell
       description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
-        - link: transcriptomics-scrna-intro-slides_eng
+        - link: transcriptomics-scrna-intro-slides
             support_channel: "#scrna-intro-eng"
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial
             support_channel: "#scrna-alevin-eng"
