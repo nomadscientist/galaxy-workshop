@@ -17,34 +17,33 @@ tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
-instructors:
+#organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
   - ales-ibt
   - pclo
-  - beatrizserrano
-  - Irelka Colina
-  - Jolene Ramsey
-  - Lorena Gallego-Villar
-  - María Bernardi
-  - Melissa Black
-  - npalopoli
-  - Stefana Dreptate
-  - Pablo Moreno
-  - Vinicius
-  - Montserrat Ve Go
-  - Veronica Olivo Pimentel
   - shiltemann
   - hexylena
-
-
+  - beatrizserrano
+  - IrelCM
+  - jrr-cpt
+  - Lgallegovillar
+  - mtbernardi
+  - melibleq
+  - npalopoli
+  - StefyDreptate
+#additional trainers
+  - pcm32
+  - Vinicius Maracaja-Coutinho
+  - Eucaliptovni
+  - Veronica Olivo Pimentel
 
 schedule:
     day1:
       title: Bienvenida e información práctica
       sessions:
         - name: "Prepárate para el curso"
-          type: setup
-        - link: meetnjoin
+          type: setup_euonly
+        - link: meetnjoin_CAT
 
     galaxy-intro:
       title: "Introducción a Galaxy"
