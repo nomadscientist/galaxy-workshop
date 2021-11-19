@@ -1155,7 +1155,7 @@ transcriptomics-scrna-intro-slides_eng:
       faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
       type: Lecture
       tags: [transcriptomics, single-cell]
-      instructor: [mtekman]
+      instructor: mtekman
       videos:
       - captions:
         - mtekman
@@ -1485,7 +1485,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_eng:
   support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
-  instructor: [nomadscientist]
+  instructor: nomadscientist
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
