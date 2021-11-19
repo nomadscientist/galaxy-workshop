@@ -1610,21 +1610,22 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
 # Computer Aided Translation (not catalunya)
 introduction/galaxy-intro-short/slides/cat:
   description: |
-      TODO
+      Esta breve introducción a Galaxy le dirá por qué es tan bueno para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
   material:
   - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
     title: Una breve introducción a Galaxy
     type: Slides
   name: 'Una breve introducción a Galaxy (Slides)'
   type: Tutorial
-  support_channel: "#galaxy-intro-short-CAT"
+  support_channel: "#galaxy-cat"
   support_link: "TODO"
   faq: "TODO"
   tags: [gtñ]
+  instructors: [shiltemann, hexylena, nsoranzo]
   videos:
   - captions: [shiltemann, hexylena]
     event_name: GTÑ
-    length: TODO
+    length: 6M
     link: IRdlOcVgjRY
     speaker: awspolly
 
