@@ -13,6 +13,9 @@ registration_form:
 feedback_form:
 certificates: true
 lang: en
+galaxy_servers:
+  - name: Galaxy EU
+    url: "https://usegalaxy.eu"
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
@@ -43,7 +46,7 @@ schedule:
       title: Welcome & Practical Information
       sessions:
         - name: "Get set up for the course"
-          type: setup-euonly
+          type: setup
         - link: meetnjoin_eng
 
     galaxy-intro:
