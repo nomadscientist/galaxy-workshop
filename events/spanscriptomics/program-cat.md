@@ -17,26 +17,25 @@ tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
-instructors:
+#organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
   - ales-ibt
   - pclo
+  - shiltemann
+  - hexylena
   - beatrizserrano
-  - Irelka Colina
-  - Jolene Ramsey
-  - Lorena Gallego-Villar
-  - María Bernardi
-  - Melissa Black
+  - IrelCM
+  - jrr-cpt
+  - Lgallegovillar
+  - mtbernardi
+  - melibleq
   - npalopoli
-  - Stefana Dreptate
-  - Pablo Moreno
+  - StefyDreptate
+#trainers
+  - pcm32
   - Vinicius
   - Montserrat Ve Go
   - Veronica Olivo Pimentel
-  - shiltemann
-  - hexylena
-
-
 
 schedule:
     day1:
@@ -77,4 +76,4 @@ schedule:
         en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de Slack.
 ---
 
-Bienvenido al experimento GTÑ!
+¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí] (https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/)
