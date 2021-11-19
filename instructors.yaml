@@ -114,7 +114,7 @@ ennovytje:
 
 Eucaliptovni:
   name: Montserrat Vega-Gordillo
-  affiliation: 
+  affiliation:
 
 foellmelanie:
     name: Melanie Föll
@@ -223,6 +223,10 @@ nekrut:
 nomadscientist:
     name: Wendi Bacon
     affiliation: ebi
+
+nsoranzo:
+  name: Nicola Soranzo
+  affiliation: earlham
 
 pclo:
     name: Patricia Carvajal López
