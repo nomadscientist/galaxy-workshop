@@ -13,6 +13,9 @@ registration_form:
 feedback_form:
 certificates: true
 lang: en
+galaxy_servers:
+  - name: Galaxy EU
+    url: "https://usegalaxy.eu"
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
@@ -43,7 +46,7 @@ schedule:
       title: Welcome & Practical Information
       sessions:
         - name: "Get set up for the course"
-          type: setup-euonly
+          type: setup
         - link: meetnjoin_eng
 
     galaxy-intro:
@@ -85,4 +88,4 @@ schedule:
 
 ---
 
-Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/)
+Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) and our project information [here](todo). You've been allocated to the ENG team. These are all original, English bioinformatics resources. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!

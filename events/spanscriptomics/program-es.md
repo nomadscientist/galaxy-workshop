@@ -13,6 +13,9 @@ registration_form:
 feedback_form:
 certificates: true
 lang: es
+galaxy_servers:
+  - name: Galaxy EU
+    url: "https://usegalaxy.eu"
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
