@@ -1308,7 +1308,7 @@ introduction/galaxy-intro-short/slides:
   type: Tutorial
   support_channel: "#galaxy_eng"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   instructors: [shiltemann, hexylena, nsoranzo]
   videos:
@@ -1332,7 +1332,7 @@ introduction/galaxy-intro-short/slides_cat:
   type: Tutorial
   support_channel: "#galaxy-cat"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   instructors: [shiltemann, hexylena, nsoranzo]
   videos:
@@ -1343,16 +1343,16 @@ introduction/galaxy-intro-short/slides_cat:
     speaker: awspolly
 
 #1-HES
-introduction/galaxy-intro-short/slides_es:
+introduction/galaxy-intro-short/slides_hes:
   description: |
-      TODO
+      TRANSLATE ME: This short introduction to Galaxy will tell you why it's so great for accessibility, reproducibility and sustainability of bioinformatics training.
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/slides_ES.html
     title: Una breve Introducción a Galaxy
     type: Diapositivas
   name: 'Una breve Introducción a Galaxy (Diapositivas)'
   type: Tutorial
-  support_channel: "#galaxy-intro-short"
+  support_channel: "#galaxy-intro-hes"
   support_link: "TODO"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
@@ -1377,7 +1377,7 @@ introduction/galaxy-intro-short/tutorial:
   support_channel: "#galaxy_eng"
   support_link: "TODO"
   instructors: [annasyme, nsoranzo]
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: [nomadscientist]
@@ -1398,7 +1398,7 @@ introduction/galaxy-intro-short/tutorial_cat:
   type: Tutorial
   support_channel: "#galaxy-cat"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: [nomadscientist]
@@ -1408,21 +1408,21 @@ introduction/galaxy-intro-short/tutorial_cat:
     speaker: nomadscientist
 
 #2-HES
-introduction/galaxy-intro-short/tutorial_es:
+introduction/galaxy-intro-short/tutorial_hes:
   description: |
-      TODO
+      Translate me: This is your opportunity to learn how to navigate Galaxy, before we get into using it to analyse single cell data. When you're done, make sure to save your first history (no matter how many mistakes there are!) for submitting at the end of the workshop!
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/tutorial_ES.html
     title: Una breve introducción a Galaxy
     type: Tutorial
   name: 'Una breve introducción a Galaxy (Tutorial)'
-  type: Tutorial
-  support_channel: "#galaxy-intro-short-ES"
+  type: Diapositivas
+  support_channel: "#galaxy-intro-hes"
   support_link: "TODO"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
-  - captions: [nomadscientist, Maria Bernardi]
+  - captions: [nomadscientist, mtbernardi]
     event_name: GTÑ
     length: 5M
     link: ij01h_CAodA
@@ -1494,7 +1494,7 @@ transcriptomics/scrna-intro/slides_cat:
 #3-HES
 transcriptomics/scrna-intro/slides_hes:
   description: |
-      T/N Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
+      Translate me: Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
       of transcriptomic research, used in high-throughput developmental studies
       and rare transcript studies to examine cell heterogeneity within a
       populations of cells. The cellular resolution and genome wide scope make
@@ -1580,10 +1580,10 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_hes:
   type: Self-Study with Video Walkthrough
   support_channel: "#transcriptomics_single-cell-matrix-alevin-ES"
   support_link: TODO
-  faq: TODO
+  faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
   videos:
-  - captions: [ales-ibt, Maria Bernardi]
+  - captions: [ales-ibt, mtbernardi]
     event_name: GTÑ
     link: -K9ue--46Lg
     length: 30M
@@ -1634,7 +1634,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
     link: M6iepSJh0EQ
     length: 30M
     speaker: nomadscientist
-    
+
 #5-HES
 transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
   name: Filtrado, representación y exploración de datos de RNA-seq de células únicas
@@ -1647,14 +1647,14 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
       to find our biological meaning and insights!
   material:
   - type: Tutorial
-    link: https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html
+    link: "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html"
   type: Tutorial
   support_channel: "#transcriptomics_single-cell-filter-plot-explore-ES"
   support_link: TODO
-  faq: TODO
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
   videos:
-  - captions: [Melissa Black, Maria Bernardi]
+  - captions: [melibleq, mtbernardi]
     event_name: GTÑ
     link: sG7nvtVaTHw
     length: 30M
