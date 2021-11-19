@@ -57,20 +57,30 @@ schedule:
           type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
         - link: introduction/galaxy-intro-short/slides
-            support_channel: "#galaxy-eng"
+            support:
+              support_channel: "#galaxy-eng"
+              link: "TODO"
         - link: introduction/galaxy-intro-short/tutorial
-            support_channel: "#galaxy-eng"
+              support:
+                support_channel: "#galaxy-eng"
+                link: "TODO"
 
     ngs:
       title: Single Cell
       description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
         - link: transcriptomics-scrna-intro-slides
-            support_channel: "#scrna-intro-eng"
+            support:
+              support_channel: "#scrna-intro-eng"
+              link: "TODO"
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial
-            support_channel: "#scrna-alevin-eng"
+            support:
+              support_channel: "#scrna-alevin-eng"
+              link: "TODO"
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial
-            support_channel: "#scrna-final-eng"
+            support:
+              support_channel: "#scrna-final-eng"
+              link: "TODO"
     done:
       title: "All done?"
       description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks so much for joining and we hope you learned a ton!!"
