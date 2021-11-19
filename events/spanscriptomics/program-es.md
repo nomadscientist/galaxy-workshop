@@ -16,7 +16,27 @@ lang: es
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
-
+instructors:
+#organisers & trainers
+  - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
+  - ales-ibt
+  - pclo
+  - shiltemann
+  - hexylena
+  - beatrizserrano
+  - IrelCM
+  - jrr-cpt
+  - Lgallegovillar
+  - mtbernardi
+  - melibleq
+  - npalopoli
+  - StefyDreptate
+#additional trainers
+  - pcm32
+  - Vinicius Maracaja-Coutinho
+  - Eucaliptovni
+  - Veronica Olivo Pimentel
+  
 schedule:
     day1:
       title: Welcome & Practical Information
