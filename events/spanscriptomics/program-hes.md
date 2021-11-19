@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Análisis de células únicas por medio de Galaxy
+title: Análisis de células únicas usando Galaxy
 site_title: GTÑ
 type: track
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
@@ -63,7 +63,7 @@ schedule:
       title: Single Cell
       description: "Here we show you how to analyze your NGS data using Galaxy."
       sessions:
-        - link: transcriptomics/scrna-intro/slides/es
+        - link: transcriptomics/scrna-intro/slides_hes
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial/es
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial/es
 
