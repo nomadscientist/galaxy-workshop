@@ -16,6 +16,27 @@ lang: es-cat
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
+logo: events/spanscriptomics/logo.png
+instructors:
+  - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
+  - ales-ibt
+  - pclo
+  - beatrizserrano
+  - Irelka Colina
+  - Jolene Ramsey
+  - Lorena Gallego-Villar
+  - María Bernardi
+  - Melissa Black
+  - npalopoli
+  - Stefana Dreptate
+  - Pablo Moreno
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
+  - shiltemann
+  - hexylena
+
+
 
 schedule:
     day1:

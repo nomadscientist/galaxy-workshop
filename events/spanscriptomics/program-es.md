@@ -16,6 +16,25 @@ lang: es
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
+logo: events/spanscriptomics/logo.png
+instructors:
+  - nomadscientist
+  - ales-ibt
+  - pclo
+  - beatrizserrano
+  - Irelka Colina
+  - Jolene Ramsey
+  - Lorena Gallego-Villar
+  - María Bernardi
+  - Melissa Black
+  - npalopoli
+  - Stefana Dreptate
+  - Pablo Moreno
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
+  - shiltemann
+  - hexylena
 
 schedule:
     day1:
@@ -32,7 +51,7 @@ schedule:
         - name: "Icebreaker: Introduce yourself in Slack!"
           type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-        - link: introduction/galaxy-intro-short/slides/es
+        - link: introduction/galaxy-intro-short/slides_es
         - link: introduction/galaxy-intro-short/tutorial/es
 
     ngs:
@@ -56,4 +75,4 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 ---
 
-Welcome to the GTÑ Experiment! Please make sure to update your **User | Preferences | Manage information | Preferred Language | Español**
+Welcome to the GTÑ Experiment! Please make sure to set your Galaxy to Spanish **User → Preferences → Manage information → Preferred Language → Español**
