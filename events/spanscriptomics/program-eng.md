@@ -5,7 +5,11 @@ type: track
 site_title: GTÑ
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
 event_state: 'wip' # 'wip', 'running' or 'done'
-contacts: []
+contacts:
+- name: Wendi Bacon
+  email: wendi.bacon@open.ac.uk
+- name: Stefana Dreptate
+  email: stefana.dreptate@open.ac.uk
 description:
 date_start: 2021-11-29
 format: async
