@@ -93,4 +93,4 @@ schedule:
 
 ---
 
-Welcome to the GTÑ Experiment! Please make sure to set your Galaxy to Spanish **User → Preferences → Manage information → Preferred Language → Español**
+TRANSLATE ME: Welcome to the GTÑ Experiment! Please make sure to set your [Galaxy to Spanish](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* Button --> 8. If you see 'Flujo de trabajo', you were successful!
