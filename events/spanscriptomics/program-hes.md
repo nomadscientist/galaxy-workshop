@@ -82,6 +82,15 @@ schedule:
         All these materials will remain online, so you can continue working on them for as
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
+
+  #thisneedslotsofprogramminghelp
+      otro-idioma:
+        title: "Quieres cambiar idioma?"
+        description: |
+          TRANSLATE ME Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
+          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat/)
+          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes/)
+
 ---
 
 Welcome to the GTÑ Experiment! Please make sure to set your Galaxy to Spanish **User → Preferences → Manage information → Preferred Language → Español**
