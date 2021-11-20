@@ -17,41 +17,38 @@ registration_form:
 feedback_form:
 certificates: true
 lang: en
-galaxy_servers:
-  - name: Galaxy EU
-    url: "https://usegalaxy.eu"
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
 instructors:
-#organisers & trainers
-  - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
+  - nomadscientist
   - ales-ibt
   - pclo
+  - beatrizserrano
+  - Irelka Colina
+  - Jolene Ramsey
+  - Lorena Gallego-Villar
+  - María Bernardi
+  - Melissa Black
+  - npalopoli
+  - Stefana Dreptate
+  - Pablo Moreno
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
   - shiltemann
   - hexylena
-  - beatrizserrano
-  - IrelCM
-  - jrr-cpt
-  - Lgallegovillar
-  - mtbernardi
-  - melibleq
-  - npalopoli
-  - StefyDreptate
-#additional trainers
-  - pcm32
-  - Vinicius Maracaja-Coutinho
-  - Eucaliptovni
-  - Veronica Olivo Pimentel
+
+
 
 schedule:
     day1:
       title: Welcome & Practical Information
       sessions:
         - name: "Get set up for the course"
-          type: setup
-        - link: meetnjoin_eng
+          type: setup-euonly
+        - link: meetnjoin
 
     galaxy-intro:
       title: "Introduction to Galaxy"
@@ -60,31 +57,17 @@ schedule:
         - name: "Icebreaker: Introduce yourself in Slack!"
           type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-        - link: introduction/galaxy-intro-short/slides
-            support:
-              support_channel: "#galaxy-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
-        - link: introduction/galaxy-intro-short/tutorial
-              support:
-                support_channel: "#galaxy-eng"
-                link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
+        - link: introduction/galaxy-intro-short/slides_eng
+        - link: introduction/galaxy-intro-short/tutorial_eng
 
     ngs:
       title: Single Cell
       description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
-        - link: transcriptomics-scrna-intro-slides
-            support:
-              support_channel: "#scrna-intro-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MZHYQF5G"
-        - link: transcriptomics/droplet-quantification-preprocessing/tutorial
-            support:
-              support_channel: "#scrna-alevin-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MWKH1NFP"
-        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial
-            support:
-              support_channel: "#scrna-final-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MZJT34E7"
+        - link: transcriptomics-scrna-intro-slides_eng
+        - link: transcriptomics/droplet-quantification-preprocessing/tutorial_eng
+        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial_eng
+
     done:
       title: "All done?"
       description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks so much for joining and we hope you learned a ton!!"
@@ -106,4 +89,4 @@ schedule:
 
 ---
 
-Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) and our project information [here](todo). You've been allocated to the ENG team. These are all original, English bioinformatics resources. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
+Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/)

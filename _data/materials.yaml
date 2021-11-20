@@ -1306,7 +1306,7 @@ introduction/galaxy-intro-short/slides:
     type: Slides
   name: 'A short introduction to Galaxy (Slides)'
   type: Tutorial
-  support_channel: "#galaxy_eng"
+  support_channel: "#todo"
   support_link: "TODO"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
@@ -1330,8 +1330,8 @@ introduction/galaxy-intro-short/slides_cat:
     type: Slides
   name: 'Una breve introducción a Galaxy (Slides)'
   type: Tutorial
-  support_channel: "#galaxy-cat"
-  support_link: "TODO"
+  support_channel: "#1_galaxy-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   instructors: [shiltemann, hexylena, nsoranzo]
@@ -1352,8 +1352,8 @@ introduction/galaxy-intro-short/slides_hes:
     type: Diapositivas
   name: 'Una breve Introducción a Galaxy (Diapositivas)'
   type: Tutorial
-  support_channel: "#galaxy-intro-hes"
-  support_link: "TODO"
+  support_channel: "#1_galaxy-intro-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
@@ -1374,7 +1374,7 @@ introduction/galaxy-intro-short/tutorial:
     type: Tutorial
   name: 'A short introduction to Galaxy (Tutorial)'
   type: Tutorial
-  support_channel: "#galaxy_eng"
+  support_channel: "TODO"
   support_link: "TODO"
   instructors: [annasyme, nsoranzo]
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1396,8 +1396,8 @@ introduction/galaxy-intro-short/tutorial_cat:
     type: Tutorial
   name: 'Una breve introducción a Galaxy (Tutorial)'
   type: Tutorial
-  support_channel: "#galaxy-cat"
-  support_link: "TODO"
+  support_channel: "#1_galaxy-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
@@ -1417,8 +1417,8 @@ introduction/galaxy-intro-short/tutorial_hes:
     type: Tutorial
   name: 'Una breve introducción a Galaxy (Tutorial)'
   type: Diapositivas
-  support_channel: "#galaxy-intro-hes"
-  support_link: "TODO"
+  support_channel: "#1_galaxy-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
@@ -1477,8 +1477,8 @@ transcriptomics/scrna-intro/slides_cat:
     title: Introducción al análisis de datos de scRNA-Seq
     type: Diapositivas
   name: Introducción al análisis de datos de scRNA-Seq
-  support_channel: "#scrna-intro-cat"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+  support_channel: "#2_scrna-intro-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RLR0CU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
   tags: [transcriptomics, single-cell]
@@ -1505,8 +1505,8 @@ transcriptomics/scrna-intro/slides_hes:
     title: Introducción al análisis de datos de scRNA-seq
     type: Slides
   name: Introducción al análisis de datos de scRNA-seq
-  support_channel: "#scrna-intro-hes"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+  support_channel: "#2_scrna-intro-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02NP9QH7U0"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
   tags: [transcriptomics, single-cell]
@@ -1554,8 +1554,8 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
   type: Autoestudio con tutorial en video
-  support_channel: "#scrna-alevin-cat"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
+  support_channel: "#3_scrna-alevin-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RM81QU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
 instructors: [nomadscientist, pinin4fjords]
@@ -1578,8 +1578,8 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_hes:
   - type: Tutorial
     link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial_ES.html
   type: Self-Study with Video Walkthrough
-  support_channel: "#transcriptomics_single-cell-matrix-alevin-ES"
-  support_link: TODO
+  support_channel: "#3_scrna-alevin-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MZJ4NGM8"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
   videos:
@@ -1624,8 +1624,8 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
   type: Autoestudio con tutorial en video
-  support_channel: "#scrna-final-cat"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
+  support_channel: "#4_scrna-final-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MWKLEY5B"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
   videos:
@@ -1649,8 +1649,8 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
   - type: Tutorial
     link: "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html"
   type: Tutorial
-  support_channel: "#transcriptomics_single-cell-filter-plot-explore-ES"
-  support_link: TODO
+  support_channel: "#4_scrna-final-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MZK0PPMZ"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
   videos:
