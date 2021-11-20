@@ -62,11 +62,11 @@ schedule:
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
         - link: introduction/galaxy-intro-short/slides
             support:
-              support_channel: "#galaxy-eng"
+              support_channel: "#1_galaxy-eng"
               link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
         - link: introduction/galaxy-intro-short/tutorial
               support:
-                support_channel: "#galaxy-eng"
+                support_channel: "#1_galaxy-eng"
                 link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
 
     ngs:
@@ -75,15 +75,15 @@ schedule:
       sessions:
         - link: transcriptomics-scrna-intro-slides
             support:
-              support_channel: "#scrna-intro-eng"
+              support_channel: "#2_scrna-intro-eng"
               link: "https://gtnsmrgsbord.slack.com/archives/C02MZHYQF5G"
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial
             support:
-              support_channel: "#scrna-alevin-eng"
+              support_channel: "#3_scrna-alevin-eng"
               link: "https://gtnsmrgsbord.slack.com/archives/C02MWKH1NFP"
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial
             support:
-              support_channel: "#scrna-final-eng"
+              support_channel: "#4_scrna-final-eng"
               link: "https://gtnsmrgsbord.slack.com/archives/C02MZJT34E7"
     done:
       title: "All done?"
