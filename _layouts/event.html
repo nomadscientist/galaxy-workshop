@@ -84,13 +84,13 @@ layout: page
    <!-- speaker and video -->
    {% if session.videos %}
    <h3 class="session-section"> {{ locale['video'] }} {{session.type | default: "Tutorial" }} </h3>
-   {% include video-session.html session=session %}
+   {% include video-session.html session=session  %}
    {% else %}
    {% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
    <h3 class="session-section"> {{ locale['self-study'] }} </h3>
    {{session.description}}
 
-   {% include selfstudy-session.html session=session %}
+   {% include selfstudy-session.html session=session  %}
    {% endunless %}{% endunless %}{% endunless %}{% endunless %}
    {% endif %}
 
@@ -100,7 +100,7 @@ layout: page
    <!-- session links  -->
    {% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
    <h3 class="session-section">{{ locale['supporting'] }}</h3>
-   {% include session_materials.html session=session %}
+   {% include session_materials.html session=session event_session=f_session %}
    {% endunless %}{% endunless %}{% endunless %}{% endunless %}
 
    <!-- end session links -->

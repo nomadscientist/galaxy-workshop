@@ -26,8 +26,7 @@
      {% endif %}
 
      <!-- support -->
-	 <li><a href="{{include.session.support_link }}{% include analytics.html %}">{{ locale['ask-an-instructor'] }}</a> - {{ locale['ask-them-on'] }} {{ site.support.platform }}! {% if session.support_channel %} ({{ locale['channel'] }}: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%} </li>
-
+	 <li><a href="{{include.event_session.support.link | default: include.session.support_link }}{% include analytics.html %}">{{ locale['ask-an-instructor'] }}</a> - {{ locale['ask-them-on'] }} {{ site.support.platform }}! {% if session.support_channel %} ({{ locale['channel'] }}: <a href="{{include.event_session.support.link | default: include.session.support_link}}{% include analytics.html %}">{{include.event_session.support.support_channel | default: session.support_channel}}</a> ){%endif%} </li>
 
      <!-- feedback -->
 	 <li><strong>{{ locale['finished'] }}</strong> - {{ locale['finished-text'] }} {{ locale['on-slack'] }}: {% if session.support_channel %} ({{ locale['channel'] }}: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%}. {{ locale['thanks'] }}</li>
