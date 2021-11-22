@@ -24,6 +24,7 @@ tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
+twitter_hashtag: "#spanscriptomics"
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here

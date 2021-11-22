@@ -24,6 +24,7 @@ tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
+twitter_hashtag: "#spanscriptomics"
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
@@ -61,30 +62,30 @@ schedule:
           type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
         - link: introduction/galaxy-intro-short/slides
-            support:
-              support_channel: "#1_galaxy-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
+          support:
+            support_channel: "#1_galaxy-eng"
+            link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
         - link: introduction/galaxy-intro-short/tutorial
-              support:
-                support_channel: "#1_galaxy-eng"
-                link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
+          support:
+            support_channel: "#1_galaxy-eng"
+            link: "https://gtnsmrgsbord.slack.com/archives/C02MWG6ENJH"
 
     ngs:
       title: Single Cell
       description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
         - link: transcriptomics-scrna-intro-slides
-            support:
-              support_channel: "#2_scrna-intro-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MZHYQF5G"
+          support:
+            support_channel: "#2_scrna-intro-eng"
+            link: "https://gtnsmrgsbord.slack.com/archives/C02MZHYQF5G"
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial
-            support:
-              support_channel: "#3_scrna-alevin-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MWKH1NFP"
+          support:
+            support_channel: "#3_scrna-alevin-eng"
+            link: "https://gtnsmrgsbord.slack.com/archives/C02MWKH1NFP"
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial
-            support:
-              support_channel: "#4_scrna-final-eng"
-              link: "https://gtnsmrgsbord.slack.com/archives/C02MZJT34E7"
+          support:
+            support_channel: "#4_scrna-final-eng"
+            link: "https://gtnsmrgsbord.slack.com/archives/C02MZJT34E7"
     done:
       title: "All done?"
       description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks so much for joining and we hope you learned a ton!!"
@@ -98,13 +99,13 @@ schedule:
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
-#thisneedslotsofprogramminghelp
+# thisneedslotsofprogramminghelp
 otro-idioma:
-        title: "Quieres cambiar idioma?"
-        description: |
-          Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
-          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
-          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
+  title: "Quieres cambiar idioma?"
+  description: |
+    Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
+    [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
+    [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
 
 ---
 
