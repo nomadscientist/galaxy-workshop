@@ -86,7 +86,7 @@ layout: default
 
 				<!-- speaker and video -->
 				{% if session.videos %}
-				<h3 class="session-section"> Video {{session.type | default: "Tutorial" }} </h3>
+				<h3 class="session-section"> {{session.type | default: "Tutorial" }} </h3>
 				{% include video-session.html session=session %}
 				{% else %}
 				{% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}

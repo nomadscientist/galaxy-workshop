@@ -514,7 +514,7 @@ meetnjoin_eng:
     - ales-ibt
     event_name: Spanscriptomics
     length: 3M
-    link: -YE_QLodIe_w
+    link: PmEXcwjmhho
     speaker: ales-ibt
 
 meetnjoin_cat:
@@ -599,7 +599,7 @@ meetnjoin_cat:
         - ales-ibt
         event_name: Spanscriptomics
         length: 3M
-        link: -YE_QLodIe_w
+        link: YE_QLodIe_w
         speaker: ales-ibt
 
 metagenomics-mothur-miseq-sop-short-slides:
@@ -1429,7 +1429,7 @@ introduction/galaxy-intro-short/tutorial_hes:
     speaker: ales-ibt
 
 #3-ENG
-transcriptomics/scrna-intro/slides:
+transcriptomics-scrna-intro-slides:
   description: |
       Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
       of transcriptomic research, used in high-throughput developmental studies

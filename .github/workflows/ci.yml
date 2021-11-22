@@ -1,0 +1,20 @@
+name: Lint Broken Links
+
+on: [pull_request]
+
+jobs:
+  build-site:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      # BEGIN Dependencies
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "2.5"
+      # END Dependencies
+
+      - run: |
+          ruby bin/check.rb
