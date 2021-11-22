@@ -52,7 +52,7 @@ schedule:
       sessions:
         - name: "Get set up for the course"
           type: setup
-        - link: meetnjoin
+        - link: meetnjoin_hes
 
     galaxy-intro:
       title: "Introducción a Galaxy"

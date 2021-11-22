@@ -602,6 +602,93 @@ meetnjoin_cat:
         link: YE_QLodIe_w
         speaker: ales-ibt
 
+meetnjoin_hes:
+  description: TRANSLATE ME (and the link translations below!): This short video gives an overview of the GTÑ project made possible by the Galaxy community,
+    and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*.
+  material:
+  - external: true
+    link: Channel "#GTN-equipo"
+    title: Slack-GTÑ
+    type: Help with GTÑ Projects
+  - external: true
+    link: https://galaxyproject.org
+    title: galaxyproject.org
+    type: GalaxyProject Home
+  - external: true
+    link: https://galaxyproject.org/use/
+    title: Find a Galaxy server near you!
+    type: Galaxy servers
+  - external: true
+    link: https://training.galaxyproject.org
+    title: Start learning Galaxy
+    type: Galaxy Training Network
+  - external: true
+    link: https://help.galaxyproject.org/
+    title: Galaxy Help Forum
+    type: Support
+  - external: true
+    link: https://www.zotero.org/groups/1732893/galaxy
+    title: Zotero
+    type: Galaxy Publications
+  - external: true
+    link: https://galaxyproject.org/community/
+    title: Find and Join a community
+    type: Galaxy Communities
+  - external: true
+    link: https://galaxyproject.org/events/
+    title: Galaxy Event Horizon
+    type: Events
+  - external: true
+    link: https://galaxyproject.org/mailing-lists/
+    title: Stay informed of Galaxy activity!
+    type: Mailing Lists
+  - external: true
+    link: https://galaxyproject.org/community/wg/
+    title: Find and join a WG
+    type: Galaxy Working Groups
+  - external: true
+    link: https://github.com/galaxyproject
+    title: galaxyproject
+    type: GitHub
+  - external: true
+    link: https://gitter.im/galaxyproject/Lobby
+    title: Start talking with the Galaxy Community!
+    type: Gitter Chat
+  - external: true
+    link: https://gitter.im/Galaxy-Training-Network/Lobby
+    title: Join the training discussion here!
+    type: GTN Gitter
+  - external: true
+    link: https://galaxyproject.org/events/2021-02-papercuts/
+    title: Monthly Collaboration Fest
+    type: PaperCuts
+  - external: true
+    link: https://github.com/galaxyproject/training-material/issues/1712
+    title: Everybody Welcome!
+    type: GTN CoFest
+  - external: true
+    link: https://twitter.com/search?q=%23spanscriptomics&src=typed_query&f=top
+    title: follow Spanscriptomics
+    type: Twitter
+  - external: true
+    link: https://twitter.com/galaxyproject
+    title: follow @galaxyproject
+    type: Twitter
+  - external: true
+    link: https://twitter.com/gxytraining
+    title: follow the GTN @gxytraining
+    type: Twitter
+  name: Meet & Join the Galaxy Training Ñetwork!
+  tags: [meta]
+  videos:
+  - captions:
+    - ales-ibt
+    event_name: Spanscriptomics
+    length: 3M
+    link: YE_QLodIe_w
+    speaker: ales-ibt
+
+
 metagenomics-mothur-miseq-sop-short-slides:
   description: |
       This lecture briefly introduces 16S sequencing, a popular technique used
