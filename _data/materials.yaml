@@ -1558,7 +1558,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RM81QU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
-instructors: [nomadscientist, pinin4fjords]
+  instructors: [nomadscientist, pinin4fjords]
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
