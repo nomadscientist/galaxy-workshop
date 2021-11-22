@@ -89,7 +89,7 @@ schedule:
     otro-idioma:
       title: "Quieres cambiar idioma?"
       description: |
-        Aquí puede cambiar a los programas con recursos que fueron traducidos automáticamente (ENG-Inglés) o traducidos por humanos (HES-Español). ¡Recuerde anotar esto en la encuesta posterior al curso! ¡Estos son datos valiosos!
+        Aquí puede cambiar a los programas con recursos que fueron traducidos automáticamente (ENG-Inglés) o traducidos por humanos (HES-Español). ¡Recuerde anotar esto en la Encuesta posterior al curso! ¡Estos son datos valiosos!
 
         <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
