@@ -93,6 +93,6 @@ schedule:
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
 ---
 
-¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí] (https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) y la información de nuestro proyecto [aquí](todo).
+¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) y la información de nuestro proyecto [aquí](todo).
 
 **Se le ha asignado al equipo ENG.** Todos estos son recursos bioinformáticos originales en inglés. Puede encontrar los botones para cambiar de equipo (¡si lo desea!) En la parte inferior de esta página. ¡Asegúrese de tener en cuenta que cambió en la encuesta posterior al curso!
