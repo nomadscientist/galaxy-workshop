@@ -517,7 +517,7 @@ meetnjoin_eng:
     link: -YE_QLodIe_w
     speaker: ales-ibt
 
-  meetnjoin_cat:
+meetnjoin_cat:
       description: ¡Este breve video ofrece una descripción general del proyecto GTÑ hecho posible por la comunidad Galaxy, y diferentes formas en las que puedes participar! *Video creado por Alejandra Escobar-Zepeda*.
       material:
       - external: true
@@ -1558,7 +1558,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RM81QU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
-instructors: [nomadscientist, pinin4fjords]
+  instructors: [nomadscientist, pinin4fjords]
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
