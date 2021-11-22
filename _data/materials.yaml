@@ -603,8 +603,7 @@ meetnjoin_cat:
         speaker: ales-ibt
 
 meetnjoin_hes:
-  description: TRANSLATE ME (and the link translations below!): This short video gives an overview of the GTÑ project made possible by the Galaxy community,
-    and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*.
+  description: TRANSLATE ME (and the link translations below!): This short video gives an overview of the GTÑ project made possible by the Galaxy community, and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*.
   material:
   - external: true
     link: Channel "#GTN-equipo"
