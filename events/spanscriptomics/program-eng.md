@@ -103,8 +103,8 @@ otro-idioma:
         title: "Quieres cambiar idioma?"
         description: |
           Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
-          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=pagebutton)
-          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=pagebutton)
+          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
+          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
 
 ---
 

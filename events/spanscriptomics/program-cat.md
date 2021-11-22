@@ -88,8 +88,8 @@ schedule:
         title: "Quieres cambiar idioma?"
         description: |
           Aquí puede cambiar a los programas con recursos que fueron traducidos automáticamente (ENG-Inglés) o traducidos por humanos (HES-Español). ¡Recuerde anotar esto en la encuesta posterior al curso! ¡Estos son datos valiosos!
-          [ENG-Inglés](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-eng?utm_campaign=Spanscriptomics&utm_medium=pagebutton)
-          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=pagebutton)
+          [ENG-Inglés](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-eng?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton)
+          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton)
 ---
 
 ¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí] (https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) y la información de nuestro proyecto [aquí](todo). Se le ha asignado al equipo ENG. Todos estos son recursos bioinformáticos originales en inglés. Puede encontrar los botones para cambiar de equipo (¡si lo desea!) En la parte inferior de esta página. ¡Asegúrese de tener en cuenta que cambió en la encuesta posterior al curso!
