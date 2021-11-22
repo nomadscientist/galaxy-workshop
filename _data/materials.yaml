@@ -1305,7 +1305,7 @@ introduction/galaxy-intro-short/slides:
     title: A short introduction to Galaxy
     type: Slides
   name: 'A short introduction to Galaxy (Slides)'
-  type: Tutorial
+  type: Lecture
   support_channel: "#todo"
   support_link: "TODO"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1327,9 +1327,9 @@ introduction/galaxy-intro-short/slides_cat:
   material:
   - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
     title: Una breve introducción a Galaxy
-    type: Slides
+    type: Diapositivas
   name: 'Una breve introducción a Galaxy (Slides)'
-  type: Tutorial
+  type: Conferencia
   support_channel: "#1_galaxy-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1351,7 +1351,7 @@ introduction/galaxy-intro-short/slides_hes:
     title: Una breve Introducción a Galaxy
     type: Diapositivas
   name: 'Una breve Introducción a Galaxy (Diapositivas)'
-  type: Tutorial
+  type: Lección
   support_channel: "#1_galaxy-intro-hes"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1373,7 +1373,7 @@ introduction/galaxy-intro-short/tutorial:
     title: A short introduction to Galaxy
     type: Tutorial
   name: 'A short introduction to Galaxy (Tutorial)'
-  type: Tutorial
+  type: Tutorial with walkthrough video
   support_channel: "TODO"
   support_link: "TODO"
   instructors: [annasyme, nsoranzo]
@@ -1395,7 +1395,7 @@ introduction/galaxy-intro-short/tutorial_cat:
     title: Una breve introducción a Galaxy
     type: Tutorial
   name: 'Una breve introducción a Galaxy (Tutorial)'
-  type: Tutorial
+  type: Tutorial con video tutorial
   support_channel: "#1_galaxy-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1416,7 +1416,7 @@ introduction/galaxy-intro-short/tutorial_hes:
     title: Una breve introducción a Galaxy
     type: Tutorial
   name: 'Una breve introducción a Galaxy (Tutorial)'
-  type: Diapositivas
+  type: Tutorial con material guiado
   support_channel: "#1_galaxy-hes"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1480,7 +1480,7 @@ transcriptomics/scrna-intro/slides_cat:
   support_channel: "#2_scrna-intro-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RLR0CU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
-  type: Lecture
+  type: Conferencia
   tags: [transcriptomics, single-cell]
   videos:
   - captions:
@@ -1503,12 +1503,12 @@ transcriptomics/scrna-intro/slides_hes:
   material:
   - link: topics/transcriptomics/tutorials/scrna-intro/slides_ES.html
     title: Introducción al análisis de datos de scRNA-seq
-    type: Slides
+    type: Diapositivas
   name: Introducción al análisis de datos de scRNA-seq
   support_channel: "#2_scrna-intro-hes"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02NP9QH7U0"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
-  type: Lecture
+  type: Lección
   tags: [transcriptomics, single-cell]
   instructor: mtekman
   videos:
@@ -1528,7 +1528,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial:
       format? Well you’ll find out! Importantly, this is the first step in
       processing single cell data in order to start analysing it.
   material:
-  - type: Tutorial
+  - type: Tutorial with walkthrough video
     link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html
   type: Self-Study with Video Walkthrough
   support_channel: "#transcriptomics_single-cell-matrix-alevin"
@@ -1551,7 +1551,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
       destacar que este es el primer paso en el procesamiento de datos de una
       sola celda para comenzar a analizarlos. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - type: Tutorial
+  - type: Tutorial con video tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
   type: Autoestudio con tutorial en video
   support_channel: "#3_scrna-alevin-cat"
@@ -1575,7 +1575,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_hes:
       format? Well you’ll find out! Importantly, this is the first step in
       processing single cell data in order to start analysing it.
   material:
-  - type: Tutorial
+  - type: Tutorial con material guiado
     link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial_ES.html
   type: Self-Study with Video Walkthrough
   support_channel: "#3_scrna-alevin-hes"
@@ -1600,7 +1600,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
       difficult to work with, and ultimately to try to define our clusters and
       to find our biological meaning and insights!
   material:
-  - type: Tutorial
+  - type: Tutorial with walkthrough video
     link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
   type: Video Walkthrough
   support_channel: "#transcriptomics_single-cell-filter-plot-explore"
@@ -1621,7 +1621,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
       Ha hecho todo el trabajo para hacer una matriz de una sola célula, con recuentos de genes y recuentos de mitocondrias y cubos de metadatos de células de todas sus variables de interés, ahora es el momento de procesar completamente nuestros datos, eliminar células de baja calidad, reducir el muchas dimensiones de datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y encontrar nuestro significado y conocimientos biológicos.
       Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - type: Tutorial
+  - type: Tutorial con video tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
   type: Autoestudio con tutorial en video
   support_channel: "#4_scrna-final-cat"
@@ -1646,7 +1646,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
       difficult to work with, and ultimately to try to define our clusters and
       to find our biological meaning and insights!
   material:
-  - type: Tutorial
+  - type: Tutorial con material guiado
     link: "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html"
   type: Tutorial
   support_channel: "#4_scrna-final-hes"
