@@ -517,7 +517,7 @@ meetnjoin_eng:
     link: -YE_QLodIe_w
     speaker: ales-ibt
 
-  meetnjoin_cat:
+meetnjoin_cat:
       description: ¡Este breve video ofrece una descripción general del proyecto GTÑ hecho posible por la comunidad Galaxy, y diferentes formas en las que puedes participar! *Video creado por Alejandra Escobar-Zepeda*.
       material:
       - external: true
