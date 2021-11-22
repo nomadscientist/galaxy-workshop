@@ -88,9 +88,9 @@ schedule:
       otro-idioma:
         title: "Quieres cambiar idioma?"
         description: |
-          TRANSLATE ME Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
-          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat/)
-          [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes/)
+          TRANSLATE ME Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or the English version (ENG-English). Please remember to note this in the post-course survey! This is valuable data!
+          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=pagebutton)
+          [ENG-English](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-eng?utm_campaign=Spanscriptomics&utm_medium=pagebutton)
 
 ---
 
