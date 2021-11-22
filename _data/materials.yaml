@@ -1412,10 +1412,10 @@ introduction/galaxy-intro-short/slides_cat:
   description: |
       Esta breve introducción a Galaxy le dirá por qué es tan bueno para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
   material:
-  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
+  - link: topics/introduction/tutorials/galaxy-intro-short/slides_cat_es.html
     title: Una breve introducción a Galaxy
     type: Diapositivas
-  name: 'Una breve introducción a Galaxy (Slides)'
+  name: 'Una breve introducción a Galaxy (Diapositivas)'
   type: Conferencia
   support_channel: "#1_galaxy-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
@@ -1559,8 +1559,7 @@ transcriptomics/scrna-intro/slides_cat:
     hacen posible sacar nuevas conclusiones que de otro modo no serían posibles
     con la secuencia de ARN masiva. * Diapositivas creadas por Mehmet Tekman *
   material:
-  # TODO: doesn't work.
-  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Ftranscriptomics%2Ftutorials%2Fscrna-intro%2Fslides.html&edit-text=&act=url"
+  - link: topics/transcriptomics/tutorials/scrna-intro/slides_cat-es.html
     title: Introducción al análisis de datos de scRNA-Seq
     type: Diapositivas
   name: Introducción al análisis de datos de scRNA-Seq
