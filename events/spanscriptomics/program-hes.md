@@ -75,7 +75,6 @@ schedule:
     done:
       title: "All done?"
       description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
-      sessions:
 
     post-course:
       title: "After the Course"
@@ -86,12 +85,14 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
   #thisneedslotsofprogramminghelp
-      otro-idioma:
+
+    otro-idioma:
         title: "Quieres cambiar idioma?"
         description: |
           TRANSLATE ME Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or the English version (ENG-English). Please remember to note this in the post-course survey! This is valuable data!
-          [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton)
-          [ENG-English](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-eng?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton)
+
+          <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
+          <a href="program-cat?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton" class="btn btn-info btn-lg"> CAT-Español </a>
 
 ---
 

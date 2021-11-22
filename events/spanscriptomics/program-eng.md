@@ -99,14 +99,16 @@ schedule:
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
-# thisneedslotsofprogramminghelp
-otro-idioma:
-  title: "Quieres cambiar idioma?"
-  description: |
-    Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
-    [CAT-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
-    [HES-Español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton)
+    # thisneedslotsofprogramminghelp
+    otro-idioma:
+      title: "Quieres cambiar idioma?"
+      description: |
+        Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
+        <a href="program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton" class="btn btn-info btn-lg"> CAT-Español </a>
+        <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
 
 ---
 
-Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) and our project information [here](todo). You've been allocated to the ENG team. These are all original, English bioinformatics resources. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
+Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) and our project information [here](todo).
+
+**You've been allocated to the ENG team.** These are all original, English bioinformatics resources. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
