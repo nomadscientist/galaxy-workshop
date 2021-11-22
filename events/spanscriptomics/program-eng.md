@@ -94,7 +94,9 @@ schedule:
     post-course:
       title: "After the Course"
       description: |
-        Please fill out this [feedback survey](TODO - **BUTTON**??) after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
+        <a href="TODO" class="btn btn-info btn-lg">feedback survey</a><br/>
+
+        Please fill out this feedback survey after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
         All the course materials will remain online, so you can continue working on them for as
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
