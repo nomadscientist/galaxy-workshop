@@ -1,62 +1,62 @@
-event-wip: TRANSLATE ME: Welcome! The schedule is still under development but you can view the preliminary schedule below.
-event-running: Welcome! The course has started!
-event-done: Welcome! The course has ended, but you can still work through the materials on your own.
+event-wip: ¡Bienvenido! El programa aún está en desarrollo, pero puedes consultar la agenda preliminar a continuación.
+event-running: ¡Bienvenido! El curso ha comenzado
+event-done: ¡Bienvenido! El curso ha finalizado, pero aún puedes trabajar con los materiales por tu cuenta
 
-thanks-join: Thank you for joining this course! Everything you need for this course can be found on this webpage. More information including links to all training materials can be found by clicking on each session.
+thanks-join: ¡Gracias por unirse a este curso! Todo lo que necesitas para este taller se puede encontrar en esta página web. Puedes encontrar más información, incluidos enlaces a todos los materiales de formación, haciendo clic en cada sesión.
 
-click-here: Click Here to Register
-acknowledgements: Acknowledgements
-thanks-to: This Global Galaxy course is only possible thanks to a Global network of instructors and institutes.
-thanks-humans: Presenters & Instructors & Facilitators & Community Caption Contributors
-thanks-institutions: Institutions
-self-study: Self-Study Tutorial
+click-here: Haz clic aqui para registrate
+acknowledgements: Agradecimientos
+thanks-to: Este curso Global Galaxy solo es posible gracias a una red global de instructores e institutos.
+thanks-humans: Presentadores, instructores, facilitadores y contribuyentes de subtítulos de la comunidad
+thanks-institutions: Institutos
+self-study: Tutorial autodidáctico
 video: Video
-supporting: Supporting Materials
+supporting: Materiales de apoyo
 
 # _includes/session_materials.html
-watch-on: Watch it on
-faq: FAQ Document
-faq-question: Have a question about this training? Check here to see if it has already been answered
+watch-on: Velo en
+faq: Documento FAQ
+faq-question: ¿Tienes alguna pregunta sobre esta formación? Consulta aquí para ver si ya ha sido respondida
 
-ask-an-instructor: Ask an instructor
-ask-them-on: Have question about the training? Did you run into a problem? Just wanna chat? Ask away on
-channel: Channel
-finished-text: Let us know that you've finished it, and what you thought of it!
-finished: Finished the session?
-on-slack: On slack!
-thanks: Thanks!
-enjoyed: Enjoyed it?
-enjoyed-actions: Like the video on YouTube, Tweet, and follow the GTN on Twitter!
+ask-an-instructor: Pregunta a un instructor
+ask-them-on: ¿Tienes alguna pregunta sobre el tutorial? ¿Tuviste algún problema? ¿Solo quieres charlar? Pregunta en
+channel: Canal de Slack
+finished-text: ¡Avisanos cuando lo hayas terminado y dinos qué te pareció!
+finished: ¿Terminaste la sesión?
+on-slack: En Slack!
+thanks: Gracias!
+enjoyed: ¿Te diverstiste?
+enjoyed-actions: ¡Dale me gusta al video en YouTube, tuitea y sigue el GTN en Twitter!
 
 # _includes/setup.html
-register: Register for a Galaxy Account
-create: "Create an account on one of the following Galaxy servers:"
-create-pick: You can just pick the one nearest to you. Every tutorial will list which of these servers you can use for it.
+register: Registro para una cuenta de Galaxy
+create: "Crea una cuenta en uno de los siguientes servidores Galaxy:"
+create-pick: Puedes elegir el más cercano a tu ubicación geográfica. En cada tutorial se mostrará cuáles de estos servidores puede utilizarse.
 
-register-tiaas: Sign up for TIaaS
-tiaas-about: Training Infrastructure as a Service (TIaaS) helps Galaxy workshops run smoothly.
-tiaas-click: Click the link to join the event
-tiaas-why: This lets us monitor how tools are doing, and can speed up your jobs!
+register-tiaas: Registrate en TIaaS
+tiaas-about: El Servicio de Infraestructura de Formación (Training Infrastructure as a Service, TIaaS ) ayuda a que los talleres de Galaxy se ejecuten sin problemas.
+tiaas-click: Haz clic en el enlace para unirte al evento
+tiaas-why: Esto nos permite monitorear el desempeño de las herramientas y ¡Puede hacer que tus trabajos se ejecuten más rápido!
 
-slack-join: Join Slack Chat!
-slack-what:  Slack is where you can ask all your questions
-slack-link: Invite link
-slack-why: You will find different channels here, one for each training session where you can ask your questions, as well as some more general channels for socializing, general discussions, feedback and more.
+slack-join: ¡Únete a la comunidad en Slack!
+slack-what:  Slack es el sitio donde puedes hacer todas tus preguntas
+slack-link: Enlace de invitación
+slack-why: Aquí encontrará diferentes canales, uno para cada sesión de capacitación donde puedes hacer tus preguntas, así como algunos canales más generales para socializar, discusiones generales, comentarios y más
 
 # _includes/icebreaker.html
-ice: Icebreaker
-ice-hi: Come say Hi in Slack! Let us know you are joining today and are getting started!
-ice-post: Post your answers on Slack in
-ice-friendly: And of course please feel free to respond to anybody here, this channel is for socializing and getting to know each other :)
-note: Note
-ice-daily: Please do this every day if you would like to receive a certificate of attendance
+ice: Rompehielos
+ice-hi: ¡Ven a saludar en Slack! ¡Háznos saber que te uniste hoy y que estás a punto de comenzar!
+ice-post: Publica tus respuestas en Slack en
+ice-friendly: Y, por supuesto, no dudes en responder a cualquiera aquí, este canal es para socializar y conocerse :)
+note: Nota
+ice-daily: Para obtener un certificado de asistencia, es necesario mostrar actividad aquí ambos días de curso
 
 # _includes/video-session.html
-video-length: Video Length
-video-subs: Subtitles By
-video-subs-missing: We apologize for lack of captions on this video. If you are reliant on captions, please check back here soon.
-instructors: Instructors
-description: Description
+video-length: Ducarión del video
+video-subs: Subtitulado por
+video-subs-missing: Nos disculpamos por la falta de subtítulos en este video. Si dependes de los subtítulos, por favor vuelve a consultar esta liga pronto.
+instructors: Instructores
+description: Descripción
 
 # _includes/instructor_card.html
-polly-explain: This helps us keep the video slides up-to-date more easily.
+polly-explain: Esto nos ayuda a mantener las diapositivas actualizadas más fácilmente
