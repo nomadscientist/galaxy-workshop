@@ -30,7 +30,7 @@ instructors:
 image: /events/spanscriptomics/logo.png
 
 tracking: spanscriptomics
-interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
+interestform: "https://openuniversity.onlinesurveys.ac.uk/workshop-and-study-registration-single-cell-analisis-using"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
@@ -51,11 +51,9 @@ Los días 29 y 30 de noviembre de 2021 organizaremos un taller global sobre el a
 Habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto en Slack! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!
 
 
-## ¡Registra tu interés!
+## ¡Regístrate ahora!
 
-Por favor, deja tu dirección de correo electrónico para notificarte cuando el registro esté abierto.
-
-<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Registra tu interés</button></a>
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Registro</button></a>
 
 <br/>
 
