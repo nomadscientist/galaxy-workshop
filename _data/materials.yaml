@@ -514,10 +514,10 @@ meetnjoin_eng:
     - ales-ibt
     event_name: Spanscriptomics
     length: 3M
-    link: -YE_QLodIe_w
+    link: PmEXcwjmhho
     speaker: ales-ibt
 
-  meetnjoin_cat:
+meetnjoin_cat:
       description: ¡Este breve video ofrece una descripción general del proyecto GTÑ hecho posible por la comunidad Galaxy, y diferentes formas en las que puedes participar! *Video creado por Alejandra Escobar-Zepeda*.
       material:
       - external: true
@@ -599,8 +599,94 @@ meetnjoin_eng:
         - ales-ibt
         event_name: Spanscriptomics
         length: 3M
-        link: -YE_QLodIe_w
+        link: YE_QLodIe_w
         speaker: ales-ibt
+
+meetnjoin_hes:
+  description: "TRANSLATE ME (and the link translations below!) This short video gives an overview of the GTÑ project made possible by the Galaxy community, and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*."
+  material:
+  - external: true
+    link: Channel "#GTN-equipo"
+    title: Slack-GTÑ
+    type: Help with GTÑ Projects
+  - external: true
+    link: https://galaxyproject.org
+    title: galaxyproject.org
+    type: GalaxyProject Home
+  - external: true
+    link: https://galaxyproject.org/use/
+    title: Find a Galaxy server near you!
+    type: Galaxy servers
+  - external: true
+    link: https://training.galaxyproject.org
+    title: Start learning Galaxy
+    type: Galaxy Training Network
+  - external: true
+    link: https://help.galaxyproject.org/
+    title: Galaxy Help Forum
+    type: Support
+  - external: true
+    link: https://www.zotero.org/groups/1732893/galaxy
+    title: Zotero
+    type: Galaxy Publications
+  - external: true
+    link: https://galaxyproject.org/community/
+    title: Find and Join a community
+    type: Galaxy Communities
+  - external: true
+    link: https://galaxyproject.org/events/
+    title: Galaxy Event Horizon
+    type: Events
+  - external: true
+    link: https://galaxyproject.org/mailing-lists/
+    title: Stay informed of Galaxy activity!
+    type: Mailing Lists
+  - external: true
+    link: https://galaxyproject.org/community/wg/
+    title: Find and join a WG
+    type: Galaxy Working Groups
+  - external: true
+    link: https://github.com/galaxyproject
+    title: galaxyproject
+    type: GitHub
+  - external: true
+    link: https://gitter.im/galaxyproject/Lobby
+    title: Start talking with the Galaxy Community!
+    type: Gitter Chat
+  - external: true
+    link: https://gitter.im/Galaxy-Training-Network/Lobby
+    title: Join the training discussion here!
+    type: GTN Gitter
+  - external: true
+    link: https://galaxyproject.org/events/2021-02-papercuts/
+    title: Monthly Collaboration Fest
+    type: PaperCuts
+  - external: true
+    link: https://github.com/galaxyproject/training-material/issues/1712
+    title: Everybody Welcome!
+    type: GTN CoFest
+  - external: true
+    link: https://twitter.com/search?q=%23spanscriptomics&src=typed_query&f=top
+    title: follow Spanscriptomics
+    type: Twitter
+  - external: true
+    link: https://twitter.com/galaxyproject
+    title: follow @galaxyproject
+    type: Twitter
+  - external: true
+    link: https://twitter.com/gxytraining
+    title: follow the GTN @gxytraining
+    type: Twitter
+  name: Meet & Join the Galaxy Training Ñetwork!
+  tags: [meta]
+  videos:
+  - captions:
+    - ales-ibt
+    event_name: Spanscriptomics
+    length: 3M
+    link: YE_QLodIe_w
+    speaker: ales-ibt
+
 
 metagenomics-mothur-miseq-sop-short-slides:
   description: |
@@ -1105,64 +1191,6 @@ transcriptomics-rna-seq-counts-to-viz-in-r:
     length: 30M
     link: rJWgnLgA2BE
     speaker: fpsom
-transcriptomics-scrna-intro-slides:
-  description: |
-      Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
-      of transcriptomic research, used in high-throughput developmental studies
-      and rare transcript studies to examine cell heterogeneity within a
-      populations of cells. The cellular resolution and genome wide scope make
-      it possible to draw new conclusions that are not otherwise possible with
-      bulk RNA-seq. *Slides created by Mehmet Tekman*
-  material:
-  - link: topics/transcriptomics/tutorials/scrna-intro/slides.html
-    title: An introduction to scRNA-Seq data analysis
-    type: Slides
-  name: An introduction to scRNA-seq data analysis
-  support_channel: "#transcriptomics_single-cell-rnaseq"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
-  type: Lecture
-  tags: [transcriptomics, single-cell]
-  videos:
-  - captions:
-    - mtekman
-    event_name: Spanscriptomics
-    length: 20M
-    link: hR4SpWSNUSY
-    speaker: awspolly
-  - captions:
-    - mtekman
-    event_name: Smörgåsbord
-    length: 20M
-    link: D3qvYWZMFa0
-    speaker: awspolly
-
-transcriptomics-scrna-intro-slides_eng:
-      description: |
-          Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
-          of transcriptomic research, used in high-throughput developmental studies
-          and rare transcript studies to examine cell heterogeneity within a
-          populations of cells. The cellular resolution and genome wide scope make
-          it possible to draw new conclusions that are not otherwise possible with
-          bulk RNA-seq. *Slides created by Mehmet Tekman*
-      material:
-      - link: topics/transcriptomics/tutorials/scrna-intro/slides.html
-        title: An introduction to scRNA-Seq data analysis
-        type: Slides
-      name: An introduction to scRNA-seq data analysis
-      support_channel: "#scRNA-intro_eng"
-      support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
-      faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
-      type: Lecture
-      tags: [transcriptomics, single-cell]
-      instructor: mtekman
-      videos:
-      - captions:
-        - mtekman
-        event_name: GTÑ
-        length: 20M
-        link: D3qvYWZMFa0
-        speaker: awspolly
 
 transcriptomics-scrna-preprocessing-tenx:
   description: |
@@ -1352,10 +1380,10 @@ visualisation-jbrowse:
 
 
 
+#SPANSCRIPTOMICS WORKSHOP MATERIALS AKA WHEN THINGS GOT WEIRD
 
-
-
-introduction/galaxy-intro-short/slides_eng:
+#1-ENG
+introduction/galaxy-intro-short/slides:
   description: |
       This short introduction to Galaxy will tell you why it's so great for accessibility, reproducibility and sustainability of bioinformatics training.
   material:
@@ -1363,10 +1391,10 @@ introduction/galaxy-intro-short/slides_eng:
     title: A short introduction to Galaxy
     type: Slides
   name: 'A short introduction to Galaxy (Slides)'
-  type: Tutorial
-  support_channel: "#galaxy_eng"
+  type: Lecture
+  support_channel: "#todo"
   support_link: "TODO"
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   instructors: [shiltemann, hexylena, nsoranzo]
   videos:
@@ -1376,7 +1404,54 @@ introduction/galaxy-intro-short/slides_eng:
     link: IRdlOcVgjRY
     speaker: awspolly
 
-introduction/galaxy-intro-short/tutorial_eng:
+
+
+#1-CAT-Computer Aided Translation
+introduction/galaxy-intro-short/slides_cat:
+  description: |
+      Esta breve introducción a Galaxy le dirá por qué es tan bueno para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
+  material:
+  - link: topics/introduction/tutorials/galaxy-intro-short/slides_cat_es.html
+    title: Una breve introducción a Galaxy
+    type: Diapositivas
+  name: 'Una breve introducción a Galaxy (Diapositivas)'
+  type: Conferencia
+  support_channel: "#1_galaxy-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
+  tags: [gtñ]
+  instructors: [shiltemann, hexylena, nsoranzo]
+  videos:
+  - captions: [shiltemann, hexylena, nomadscientist]
+    event_name: GTÑ
+    length: 6M
+    link: #todo
+    speaker: awspolly
+
+#1-HES
+introduction/galaxy-intro-short/slides_hes:
+  description: |
+      TRANSLATE ME: This short introduction to Galaxy will tell you why it's so great for accessibility, reproducibility and sustainability of bioinformatics training.
+  material:
+  - link: topics/introduction/tutorials/galaxy-intro-short/slides_ES.html
+    title: Una breve Introducción a Galaxy
+    type: Diapositivas
+  name: 'Una breve Introducción a Galaxy (Diapositivas)'
+  type: Lección
+  support_channel: "#1_galaxy-intro-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
+  tags: [gtñ]
+  videos:
+  - captions: []
+    event_name: GTÑ
+    length: 6M
+    link: oMjSiURJxLg
+    speaker: awspolly
+
+
+#2-ENG
+introduction/galaxy-intro-short/tutorial:
   description: |
       This is your opportunity to learn how to navigate Galaxy, before we get into using it to analyse single cell data. When you're done, make sure to save your first history (no matter how many mistakes there are!) for submitting at the end of the workshop!
   material:
@@ -1384,11 +1459,11 @@ introduction/galaxy-intro-short/tutorial_eng:
     title: A short introduction to Galaxy
     type: Tutorial
   name: 'A short introduction to Galaxy (Tutorial)'
-  type: Tutorial
-  support_channel: "#galaxy_eng"
+  type: Tutorial with walkthrough video
+  support_channel: "TODO"
   support_link: "TODO"
   instructors: [annasyme, nsoranzo]
-  faq: "TODO"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
   - captions: [nomadscientist]
@@ -1397,6 +1472,139 @@ introduction/galaxy-intro-short/tutorial_eng:
     link: Kh89__cuDwQ
     speaker: nomadscientist
 
+#2-CAT-Computer Aided Translation
+introduction/galaxy-intro-short/tutorial_cat:
+  description: |
+      Esta es su oportunidad de aprender a navegar por Galaxy, antes de comenzar a usarlo para analizar datos de una sola celda. Cuando haya terminado, asegúrese de guardar su primer historial (¡sin importar cuántos errores haya!) Para enviarlo al final del taller. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
+  material:
+  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Ftutorial.html&edit-text=&act=url"
+    title: Una breve introducción a Galaxy
+    type: Tutorial
+  name: 'Una breve introducción a Galaxy (Tutorial)'
+  type: Tutorial con video tutorial
+  support_channel: "#1_galaxy-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MJUKC3NK"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
+  tags: [gtñ]
+  videos:
+  - captions: [nomadscientist]
+    event_name: GTÑ
+    length: 5M
+    link: Kh89__cuDwQ
+    speaker: nomadscientist
+
+#2-HES
+introduction/galaxy-intro-short/tutorial_hes:
+  description: |
+      Translate me: This is your opportunity to learn how to navigate Galaxy, before we get into using it to analyse single cell data. When you're done, make sure to save your first history (no matter how many mistakes there are!) for submitting at the end of the workshop!
+  material:
+  - link: topics/introduction/tutorials/galaxy-intro-short/tutorial_ES.html
+    title: Una breve introducción a Galaxy
+    type: Tutorial
+  name: 'Una breve introducción a Galaxy (Tutorial)'
+  type: Tutorial con material guiado
+  support_channel: "#1_galaxy-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
+  tags: [gtñ]
+  videos:
+  - captions: [nomadscientist, mtbernardi]
+    event_name: GTÑ
+    length: 5M
+    link: ij01h_CAodA
+    speaker: ales-ibt
+
+#3-ENG
+transcriptomics-scrna-intro-slides:
+  description: |
+      Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
+      of transcriptomic research, used in high-throughput developmental studies
+      and rare transcript studies to examine cell heterogeneity within a
+      populations of cells. The cellular resolution and genome wide scope make
+      it possible to draw new conclusions that are not otherwise possible with
+      bulk RNA-seq. *Slides created by Mehmet Tekman*
+  material:
+  - link: topics/transcriptomics/tutorials/scrna-intro/slides.html
+    title: An introduction to scRNA-Seq data analysis
+    type: Slides
+  name: An introduction to scRNA-seq data analysis
+  support_channel: "#transcriptomics_single-cell-rnaseq"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
+  type: Lecture
+  tags: [transcriptomics, single-cell]
+  videos:
+  - captions:
+    - mtekman
+    event_name: Spanscriptomics
+    length: 20M
+    link: hR4SpWSNUSY
+    speaker: awspolly
+  - captions:
+    - mtekman
+    event_name: Smörgåsbord
+    length: 20M
+    link: D3qvYWZMFa0
+    speaker: awspolly
+
+#3-CAT-Computer Aided Translation
+transcriptomics/scrna-intro/slides_cat:
+  description: |
+    El análisis de secuencia de ARN de una sola célula es un campo en rápida
+    evolución a la vanguardia de la investigación transcriptómica, que se
+    utiliza en estudios de desarrollo de alto rendimiento y estudios de
+    transcripciones raras para examinar la heterogeneidad celular dentro de una
+    población de células. La resolución celular y el amplio alcance del genoma
+    hacen posible sacar nuevas conclusiones que de otro modo no serían posibles
+    con la secuencia de ARN masiva. * Diapositivas creadas por Mehmet Tekman *
+  material:
+  - link: topics/transcriptomics/tutorials/scrna-intro/slides_cat-es.html
+    title: Introducción al análisis de datos de scRNA-Seq
+    type: Diapositivas
+  name: Introducción al análisis de datos de scRNA-Seq
+  support_channel: "#2_scrna-intro-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RLR0CU"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
+  type: Conferencia
+  tags: [transcriptomics, single-cell]
+  videos:
+  - captions:
+    - mtekman, nomadscientist
+    event_name: Smörgåsbord
+    length: 20M
+    link: D3qvYWZMFa0
+    speaker: awspolly
+
+
+#3-HES
+transcriptomics/scrna-intro/slides_hes:
+  description: |
+      Translate me: Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
+      of transcriptomic research, used in high-throughput developmental studies
+      and rare transcript studies to examine cell heterogeneity within a
+      populations of cells. The cellular resolution and genome wide scope make
+      it possible to draw new conclusions that are not otherwise possible with
+      bulk RNA-seq. *Slides created by Mehmet Tekman*
+  material:
+  - link: topics/transcriptomics/tutorials/scrna-intro/slides_ES.html
+    title: Introducción al análisis de datos de scRNA-seq
+    type: Diapositivas
+  name: Introducción al análisis de datos de scRNA-seq
+  support_channel: "#2_scrna-intro-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02NP9QH7U0"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
+  type: Lección
+  tags: [transcriptomics, single-cell]
+  instructor: mtekman
+  videos:
+  - captions:
+    - mtekman
+    event_name: GTÑ
+    length: 20M
+    link: XlmVQzZHY60
+    speaker: awspolly
+
+#4-ENG
 transcriptomics/droplet-quantification-preprocessing/tutorial:
   name: 'Generating a single cell matrix using Alevin'
   description: |
@@ -1405,7 +1613,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial:
       format? Well you’ll find out! Importantly, this is the first step in
       processing single cell data in order to start analysing it.
   material:
-  - type: Tutorial
+  - type: Tutorial with walkthrough video
     link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html
   type: Self-Study with Video Walkthrough
   support_channel: "#transcriptomics_single-cell-matrix-alevin"
@@ -1417,22 +1625,22 @@ transcriptomics/droplet-quantification-preprocessing/tutorial:
     event_name: GTÑ
     link: 3ytm2AU6QUc
     length: 30M
-    speaker: nomadscientist
 
-#English version in GTÑ experiment
-transcriptomics/droplet-quantification-preprocessing/tutorial_eng:
-  name: 'Generating a single cell matrix using Alevin'
+#4-CAT-Computer Aided Translation
+transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
+  name: Generando una matriz de una sola célula usando Alevin
   description: |
-      This tutorial will take you from raw FASTQ files to a cell x gene data
-      matrix in AnnData format. What’s a data matrix, and what’s AnnData
-      format? Well you’ll find out! Importantly, this is the first step in
-      processing single cell data in order to start analysing it.
+      Este tutorial lo llevará de archivos FASTQ sin procesar a una matriz de
+      datos de genes de celda x en formato AnnData. ¿Qué es una matriz de datos
+      y qué es el formato AnnData? ¡Bueno, lo descubrirás! Es importante
+      destacar que este es el primer paso en el procesamiento de datos de una
+      sola celda para comenzar a analizarlos. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - type: Tutorial
-    link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html
-  type: Video Walkthrough
-  support_channel: "#scRNA-alevin_eng"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
+  - type: Tutorial con video tutorial
+    link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
+  type: Autoestudio con tutorial en video
+  support_channel: "#3_scrna-alevin-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RM81QU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
   tags: [gtñ]
   instructors: [nomadscientist, pinin4fjords]
@@ -1443,6 +1651,30 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_eng:
     length: 30M
     speaker: nomadscientist
 
+#4-HES
+transcriptomics/droplet-quantification-preprocessing/tutorial_hes:
+  name: Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin
+  description: |
+      T/N This tutorial will take you from raw FASTQ files to a cell x gene data
+      matrix in AnnData format. What’s a data matrix, and what’s AnnData
+      format? Well you’ll find out! Importantly, this is the first step in
+      processing single cell data in order to start analysing it.
+  material:
+  - type: Tutorial con material guiado
+    link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial_ES.html
+  type: Self-Study with Video Walkthrough
+  support_channel: "#3_scrna-alevin-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MZJ4NGM8"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
+  tags: [gtñ]
+  videos:
+  - captions: [ales-ibt, mtbernardi]
+    event_name: GTÑ
+    link: -K9ue--46Lg
+    length: 30M
+    speaker: ales-ibt
+
+#5-ENG
 transcriptomics/scrna-seq-basic-pipeline/tutorial:
   name: Filter, Plot and Explore Single-cell RNA-seq Data
   description: |
@@ -1453,9 +1685,9 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
       difficult to work with, and ultimately to try to define our clusters and
       to find our biological meaning and insights!
   material:
-  - type: Tutorial
+  - type: Tutorial with walkthrough video
     link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
-  type: Self-Study with Video Walkthrough
+  type: Video Walkthrough
   support_channel: "#transcriptomics_single-cell-filter-plot-explore"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
@@ -1467,25 +1699,20 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
     length: 30M
     speaker: nomadscientist
 
-#English version in GTÑ experiment
-transcriptomics/scrna-seq-basic-pipeline/tutorial_eng:
-  name: Filter, Plot and Explore Single-cell RNA-seq Data
+#5-CAT-Computer Aided Translation
+transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
+  name: Filtrar, trazar y explorar datos de secuencia de ARN de una sola célula
   description: |
-      You've done all the work to make a single cell matrix, with gene counts
-      and mitochondrial counts and buckets of cell metadata from all your
-      variables of interest, now it’s time to fully process our data, to remove
-      low quality cells, to reduce the many dimensions of data that make it
-      difficult to work with, and ultimately to try to define our clusters and
-      to find our biological meaning and insights!
+      Ha hecho todo el trabajo para hacer una matriz de una sola célula, con recuentos de genes y recuentos de mitocondrias y cubos de metadatos de células de todas sus variables de interés, ahora es el momento de procesar completamente nuestros datos, eliminar células de baja calidad, reducir el muchas dimensiones de datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y encontrar nuestro significado y conocimientos biológicos.
+      Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - type: Tutorial
-    link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
-  type: Video Walkthrough
-  support_channel: "#scRNA-final_eng"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
+  - type: Tutorial con video tutorial
+    link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
+  type: Autoestudio con tutorial en video
+  support_channel: "#4_scrna-final-cat"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MWKLEY5B"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
-  instructor: nomadscientist
   videos:
   - captions: [nomadscientist]
     event_name: GTÑ
@@ -1493,97 +1720,8 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_eng:
     length: 30M
     speaker: nomadscientist
 
-# ¡Español!
-introduction/galaxy-intro-short/slides_es:
-  description: |
-      TODO
-  material:
-  - link: topics/introduction/tutorials/galaxy-intro-short/slides_ES.html
-    title: Una breve Introducción a Galaxy
-    type: Diapositivas
-  name: 'Una breve Introducción a Galaxy (Diapositivas)'
-  type: Tutorial
-  support_channel: "#galaxy-intro-short"
-  support_link: "TODO"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
-  tags: [gtñ]
-  videos:
-  - captions: []
-    event_name: GTÑ
-    length: 6M
-    link: oMjSiURJxLg
-    speaker: awspolly
-
-introduction/galaxy-intro-short/tutorial/es:
-  description: |
-      TODO
-  material:
-  - link: topics/introduction/tutorials/galaxy-intro-short/tutorial_ES.html
-    title: Una breve introducción a Galaxy
-    type: Tutorial
-  name: 'Una breve introducción a Galaxy (Tutorial)'
-  type: Tutorial
-  support_channel: "#galaxy-intro-short-ES"
-  support_link: "TODO"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
-  tags: [gtñ]
-  videos:
-  - captions: [nomadscientist, Maria Bernardi]
-    event_name: GTÑ
-    length: 5M
-    link: ij01h_CAodA
-    speaker: ales-ibt
-
-transcriptomics/scrna-intro/slides_eng:
-  description: |
-      T/N Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
-      of transcriptomic research, used in high-throughput developmental studies
-      and rare transcript studies to examine cell heterogeneity within a
-      populations of cells. The cellular resolution and genome wide scope make
-      it possible to draw new conclusions that are not otherwise possible with
-      bulk RNA-seq. *Slides created by Mehmet Tekman*
-  material:
-  - link: topics/transcriptomics/tutorials/scrna-intro/slides_ES.html
-    title: Introducción al análisis de datos de scRNA-seq
-    type: Slides
-  name: Introducción al análisis de datos de scRNA-seq
-  support_channel: "#span-single-cell-rnaseq-HES"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
-  type: Lecture
-  tags: [transcriptomics, single-cell]
-  instructor: mtekman
-  videos:
-  - captions:
-    - mtekman
-    event_name: GTÑ
-    length: 20M
-    link: XlmVQzZHY60
-    speaker: awspolly
-
-transcriptomics/droplet-quantification-preprocessing/tutorial/es:
-  name: Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin
-  description: |
-      T/N This tutorial will take you from raw FASTQ files to a cell x gene data
-      matrix in AnnData format. What’s a data matrix, and what’s AnnData
-      format? Well you’ll find out! Importantly, this is the first step in
-      processing single cell data in order to start analysing it.
-  material:
-  - type: Tutorial
-    link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial_ES.html
-  type: Self-Study with Video Walkthrough
-  support_channel: "#transcriptomics_single-cell-matrix-alevin-ES"
-  support_link: TODO
-  faq: TODO
-  tags: [gtñ]
-  videos:
-  - captions: [ales-ibt, Maria Bernardi]
-    event_name: GTÑ
-    link: -K9ue--46Lg
-    length: 30M
-    speaker: ales-ibt
-
-transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
+#5-HES
+transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
   name: Filtrado, representación y exploración de datos de RNA-seq de células únicas
   description: |
       T/N You've done all the work to make a single cell matrix, with gene counts
@@ -1593,130 +1731,16 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
       difficult to work with, and ultimately to try to define our clusters and
       to find our biological meaning and insights!
   material:
-  - type: Tutorial
-    link: https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html
+  - type: Tutorial con material guiado
+    link: "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html"
   type: Tutorial
-  support_channel: "#transcriptomics_single-cell-filter-plot-explore-ES"
-  support_link: TODO
-  faq: TODO
+  support_channel: "#4_scrna-final-hes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C02MZK0PPMZ"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
   tags: [gtñ]
   videos:
-  - captions: [Melissa Black, Maria Bernardi]
+  - captions: [melibleq, mtbernardi]
     event_name: GTÑ
     link: sG7nvtVaTHw
     length: 30M
     speaker: ales-ibt
-
-# Computer Aided Translation (not catalunya)
-introduction/galaxy-intro-short/slides_cat:
-  description: |
-      Esta breve introducción a Galaxy le dirá por qué es tan bueno para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
-  material:
-  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
-    title: Una breve introducción a Galaxy
-    type: Slides
-  name: 'Una breve introducción a Galaxy (Slides)'
-  type: Tutorial
-  support_channel: "#galaxy-cat"
-  support_link: "TODO"
-  faq: "TODO"
-  tags: [gtñ]
-  instructors: [shiltemann, hexylena, nsoranzo]
-  videos:
-  - captions: [shiltemann, hexylena, nomadscientist]
-    event_name: GTÑ
-    length: 6M
-    link: #todo
-    speaker: awspolly
-
-introduction/galaxy-intro-short/tutorial_cat:
-  description: |
-      Esta es su oportunidad de aprender a navegar por Galaxy, antes de comenzar a usarlo para analizar datos de una sola celda. Cuando haya terminado, asegúrese de guardar su primer historial (¡sin importar cuántos errores haya!) Para enviarlo al final del taller. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
-  material:
-  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Ftutorial.html&edit-text=&act=url"
-    title: Una breve introducción a Galaxy
-    type: Tutorial
-  name: 'Una breve introducción a Galaxy (Tutorial)'
-  type: Tutorial
-  support_channel: "#galaxy-cat"
-  support_link: "TODO"
-  faq: "TODO"
-  tags: [gtñ]
-  videos:
-  - captions: [nomadscientist]
-    event_name: GTÑ
-    length: 5M
-    link: Kh89__cuDwQ
-    speaker: nomadscientist
-
-transcriptomics/scrna-intro/slides_cat:
-  description: |
-    El análisis de secuencia de ARN de una sola célula es un campo en rápida
-    evolución a la vanguardia de la investigación transcriptómica, que se
-    utiliza en estudios de desarrollo de alto rendimiento y estudios de
-    transcripciones raras para examinar la heterogeneidad celular dentro de una
-    población de células. La resolución celular y el amplio alcance del genoma
-    hacen posible sacar nuevas conclusiones que de otro modo no serían posibles
-    con la secuencia de ARN masiva. * Diapositivas creadas por Mehmet Tekman *
-  material:
-  # TODO: doesn't work.
-  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Ftranscriptomics%2Ftutorials%2Fscrna-intro%2Fslides.html&edit-text=&act=url"
-    title: Introducción al análisis de datos de scRNA-Seq
-    type: Diapositivas
-  name: Introducción al análisis de datos de scRNA-Seq
-  support_channel: "#scrna-intro-cat"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
-  type: Lecture
-  tags: [transcriptomics, single-cell]
-  videos:
-  - captions:
-    - mtekman, nomadscientist
-    event_name: Smörgåsbord
-    length: 20M
-    link: D3qvYWZMFa0
-    speaker: awspolly
-
-transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
-  name: Generando una matriz de una sola célula usando Alevin
-  description: |
-      Este tutorial lo llevará de archivos FASTQ sin procesar a una matriz de
-      datos de genes de celda x en formato AnnData. ¿Qué es una matriz de datos
-      y qué es el formato AnnData? ¡Bueno, lo descubrirás! Es importante
-      destacar que este es el primer paso en el procesamiento de datos de una
-      sola celda para comenzar a analizarlos. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
-  material:
-  - type: Tutorial
-    link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
-  type: Autoestudio con tutorial en video
-  support_channel: "#scrna-alevin-cat"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C0250JZCA6R"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
-  tags: [gtñ]
-instructors: [nomadscientist, pinin4fjords]
-  videos:
-  - captions: [nomadscientist]
-    event_name: GTÑ
-    link: 3ytm2AU6QUc
-    length: 30M
-    speaker: nomadscientist
-
-transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
-  name: Filtrar, trazar y explorar datos de secuencia de ARN de una sola célula
-  description: |
-      Ha hecho todo el trabajo para hacer una matriz de una sola célula, con recuentos de genes y recuentos de mitocondrias y cubos de metadatos de células de todas sus variables de interés, ahora es el momento de procesar completamente nuestros datos, eliminar células de baja calidad, reducir el muchas dimensiones de datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y encontrar nuestro significado y conocimientos biológicos.
-      Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
-  material:
-  - type: Tutorial
-    link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
-  type: Autoestudio con tutorial en video
-  support_channel: "#scrna-final-cat"
-  support_link: "https://gtnsmrgsbord.slack.com/archives/C025LA0NBLH"
-  faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
-  tags: [gtñ]
-  videos:
-  - captions: [nomadscientist]
-    event_name: GTÑ
-    link: M6iepSJh0EQ
-    length: 30M
-    speaker: nomadscientist

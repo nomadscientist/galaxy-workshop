@@ -113,8 +113,7 @@ ennovytje:
     affiliation: barharbourinn
 
 Eucaliptovni:
-  name: Montserrat Vega-Gordillo
-  affiliation:
+    name: Montserrat Vega-Gordillo
 
 foellmelanie:
     name: Melanie Föll
@@ -222,7 +221,7 @@ nekrut:
 
 nomadscientist:
     name: Wendi Bacon
-    affiliation: ebi
+    affiliation: ou
 
 nsoranzo:
   name: Nicola Soranzo

@@ -28,7 +28,7 @@ instructors:
 image: /events/spanscriptomics/logo.png
 
 tracking: spanscriptomics
-interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
+interestform: "https://openuniversity.onlinesurveys.ac.uk/workshop-and-study-registration-single-cell-analisis-using"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
@@ -48,11 +48,9 @@ On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training e
 There will be a trained, expert team during the course dedicated to guiding you, answering your questions and making sure you learn not only at your own pace but that you leave with the skills you have signed up to learn. Reach out! Whether you are stuck, confused or need clarification. We look forward to hearing from you during the course!
 
 
-## Register your interest!
+## Register now!
 
-<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Register your interest</button></a>
-
-You will be notified when final registration opens.
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Register</button></a>
 
 <br/>
 
