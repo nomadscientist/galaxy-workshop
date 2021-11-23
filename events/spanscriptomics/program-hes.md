@@ -79,7 +79,7 @@ schedule:
     post-course:
       title: "After the Course"
       description: |
-        <a href="TODO" class="btn btn-info btn-lg">Encuesta de comentarios</a><br/>
+        <a href="TODO" class="btn btn-success btn-lg">Encuesta de comentarios</a><br/>
 
         Please fill out this feedback survey  after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
         All the course materials will remain online, so you can continue working on them for as
