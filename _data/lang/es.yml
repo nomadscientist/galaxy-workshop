@@ -1,0 +1,62 @@
+event-wip: ¡Bienvenido! El programa aún está en desarrollo, pero puedes consultar la agenda preliminar a continuación.
+event-running: ¡Bienvenido! El curso ha comenzado
+event-done: ¡Bienvenido! El curso ha finalizado, pero aún puedes trabajar con los materiales por tu cuenta
+
+thanks-join: ¡Gracias por unirse a este curso! Todo lo que necesitas para este taller se puede encontrar en esta página web. Puedes encontrar más información, incluidos enlaces a todos los materiales de formación, haciendo clic en cada sesión.
+
+click-here: Haz clic aqui para registrate
+acknowledgements: Agradecimientos
+thanks-to: Este curso Global Galaxy solo es posible gracias a una red global de instructores e institutos.
+thanks-humans: Presentadores, instructores, facilitadores y contribuyentes de subtítulos de la comunidad
+thanks-institutions: Institutos
+self-study: Tutorial autodidáctico
+video: Video
+supporting: Materiales de apoyo
+
+# _includes/session_materials.html
+watch-on: Velo en
+faq: Documento FAQ
+faq-question: ¿Tienes alguna pregunta sobre esta formación? Consulta aquí para ver si ya ha sido respondida
+
+ask-an-instructor: Pregunta a un instructor
+ask-them-on: ¿Tienes alguna pregunta sobre el tutorial? ¿Tuviste algún problema? ¿Solo quieres charlar? Pregunta en
+channel: Canal de Slack
+finished-text: ¡Avisanos cuando lo hayas terminado y dinos qué te pareció!
+finished: ¿Terminaste la sesión?
+on-slack: En Slack!
+thanks: Gracias!
+enjoyed: ¿Te diverstiste?
+enjoyed-actions: ¡Dale me gusta al video en YouTube, tuitea y sigue el GTN en Twitter!
+
+# _includes/setup.html
+register: Registro para una cuenta de Galaxy
+create: "Crea una cuenta en uno de los siguientes servidores Galaxy:"
+create-pick: Puedes elegir el más cercano a tu ubicación geográfica. En cada tutorial se mostrará cuáles de estos servidores puede utilizarse.
+
+register-tiaas: Registrate en TIaaS
+tiaas-about: El Servicio de Infraestructura de Formación (Training Infrastructure as a Service, TIaaS ) ayuda a que los talleres de Galaxy se ejecuten sin problemas.
+tiaas-click: Haz clic en el enlace para unirte al evento
+tiaas-why: Esto nos permite monitorear el desempeño de las herramientas y ¡Puede hacer que tus trabajos se ejecuten más rápido!
+
+slack-join: ¡Únete a la comunidad en Slack!
+slack-what:  Slack es el sitio donde puedes hacer todas tus preguntas
+slack-link: Enlace de invitación
+slack-why: Aquí encontrará diferentes canales, uno para cada sesión de capacitación donde puedes hacer tus preguntas, así como algunos canales más generales para socializar, discusiones generales, comentarios y más
+
+# _includes/icebreaker.html
+ice: Rompehielos
+ice-hi: ¡Ven a saludar en Slack! ¡Háznos saber que te uniste hoy y que estás a punto de comenzar!
+ice-post: Publica tus respuestas en Slack en
+ice-friendly: Y, por supuesto, no dudes en responder a cualquiera aquí, este canal es para socializar y conocerse :)
+note: Nota
+ice-daily: Para obtener un certificado de asistencia, es necesario mostrar actividad aquí ambos días de curso
+
+# _includes/video-session.html
+video-length: Ducarión del video
+video-subs: Subtitulado por
+video-subs-missing: Nos disculpamos por la falta de subtítulos en este video. Si dependes de los subtítulos, por favor vuelve a consultar esta liga pronto.
+instructors: Instructores
+description: Descripción
+
+# _includes/instructor_card.html
+polly-explain: Esto nos ayuda a mantener las diapositivas actualizadas más fácilmente

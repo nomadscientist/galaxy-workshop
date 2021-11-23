@@ -113,8 +113,7 @@ ennovytje:
     affiliation: barharbourinn
 
 Eucaliptovni:
-  name: Montserrat Vega-Gordillo
-  affiliation: 
+    name: Montserrat Vega-Gordillo
 
 foellmelanie:
     name: Melanie Föll
@@ -222,7 +221,11 @@ nekrut:
 
 nomadscientist:
     name: Wendi Bacon
-    affiliation: ebi
+    affiliation: ou
+
+nsoranzo:
+  name: Nicola Soranzo
+  affiliation: earlham
 
 pclo:
     name: Patricia Carvajal López
@@ -230,6 +233,10 @@ pclo:
 
 pcm32:
   name: Pablo Moreno
+  affiliation: ebi
+
+pinin4fjords:
+  name: Jonathan Manning
   affiliation: ebi
 
 pratikdjagtap:
