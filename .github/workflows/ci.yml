@@ -14,7 +14,13 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "2.5"
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
       # END Dependencies
 
       - run: |
-          ruby bin/check.rb
+          bundle exec ruby bin/check.rb
