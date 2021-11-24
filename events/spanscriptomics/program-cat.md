@@ -23,6 +23,7 @@ galaxy_servers:
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
+slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
 instructors:
