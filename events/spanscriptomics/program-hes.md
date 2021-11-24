@@ -48,7 +48,14 @@ instructors:
 
 logos:  # refers to images in assets/images/logos
   - OU.logo.png
-  - uni-quilmes-conicet.png
+  - company-of-biologists.png
+  - embl-ebi.png
+  - 03_erasmusmc.png
+  - avans.jpeg
+  - 04_unifreiburg.png
+  - tamu_logo.png
+  - uba_logo.png
+  - Double-logo.png
 
 
 schedule:
