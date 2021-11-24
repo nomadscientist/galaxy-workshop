@@ -36,6 +36,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
+    kwalify (0.7.2)
     liquid (4.0.3)
     listen (3.3.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -66,8 +67,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
+  kwalify
   minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
-   2.2.9
+   2.2.29
