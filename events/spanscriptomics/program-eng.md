@@ -25,6 +25,7 @@ tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
+slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
@@ -111,6 +112,6 @@ schedule:
 
 ---
 
-Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/index-en?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programeng) and our project information [here](todo).
+Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/index-en?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programeng) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Project_Information_Sheet.pdf).
 
 **You've been allocated to the ENG team.** These are all original, English bioinformatics resources. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
