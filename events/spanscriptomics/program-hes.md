@@ -99,7 +99,7 @@ schedule:
 
 ---
 
-TRANSLATE ME: Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/index-en?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programeng) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
+TRANSLATE ME: Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
 
 **You've been allocated to the HES team.** These are the resources translated by native Spanish-speaking bioinformaticians. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
 
