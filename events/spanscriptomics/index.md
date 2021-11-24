@@ -64,7 +64,6 @@ Habrá un equipo capacitado y experto durante el curso dedicado a guiarte, respo
 **Quién:** Hablantes nativos de español \\
 **Precio:** Gratis \\
 **Formato:** Virtual y asíncrono. Todas las sesiones de capacitación están pregrabadas, puedes trabajar en ellas a tu propio ritmo, con instructores disponibles en línea que te asistirán los 2 días. \\
-**Soporte:** Canal de Slack ([enlace de invitación]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel) \\
 **Contacto:** [Stefana Dreptate](mailto:stefana.dreptate@gmail.com), [Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
 **Organizado por:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
 

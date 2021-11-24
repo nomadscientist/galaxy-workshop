@@ -61,7 +61,6 @@ There will be a trained, expert team during the course dedicated to guiding you,
 **Who:** Spanish Native Speakers \\
 **Cost:** Free \\
 **Format:** Virtual and asynchronous. All training sessions are pre-recorded, you can work through these at your own pace, with instructors available online for support for the 2 days period. \\
-**Support:** Slack Channel  ([invite link]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel)  \\
 **Contact:**[Stefana Dreptate](mailto:stefana.dreptate@gmail.com), [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
 **Organized by:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
 
