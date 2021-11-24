@@ -1496,13 +1496,13 @@ introduction/galaxy-intro-short/tutorial_cat:
 #2-HES
 introduction/galaxy-intro-short/tutorial_hes:
   description: |
-      Translate me: This is your opportunity to learn how to navigate Galaxy, before we get into using it to analyse single cell data. When you're done, make sure to save your first history (no matter how many mistakes there are!) for submitting at the end of the workshop!
+      Esta es tu oportunidad de aprender a navegar por Galaxy antes de comenzar a usarlo para analizar datos de una célula única. Cuando hayas terminado, asegúrate de guardar tu primer historial (¡sin importar cuántos errores tenga!) para enviarlo al final del taller.
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/tutorial_ES.html
     title: Una breve introducción a Galaxy
     type: Tutorial
   name: 'Una breve introducción a Galaxy (Tutorial)'
-  type: Tutorial con material guiado
+  type: Video tutorial con material de guía
   support_channel: "#1_galaxy-hes"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RPB5K6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
@@ -1579,12 +1579,7 @@ transcriptomics/scrna-intro/slides_cat:
 #3-HES
 transcriptomics/scrna-intro/slides_hes:
   description: |
-      Translate me: Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
-      of transcriptomic research, used in high-throughput developmental studies
-      and rare transcript studies to examine cell heterogeneity within a
-      populations of cells. The cellular resolution and genome wide scope make
-      it possible to draw new conclusions that are not otherwise possible with
-      bulk RNA-seq. *Slides created by Mehmet Tekman*
+      El análisis de secuencia de ARN de una sola célula es un campo en rápida evolución a la vanguardia de la investigación en transcriptómica, que se utiliza en estudios de desarrollo de alto rendimiento y estudios de transcritos raros para examinar heterogeneidad dentro de una población de células. La resolución a nivel celular y el amplio alcance del análisis genómico hacen posible obtener conclusiones que de otro modo no serían posibles únicamente con la secuenciación masiva de ARN. * Diapositivas creadas por Mehmet Tekman *
   material:
   - link: topics/transcriptomics/tutorials/scrna-intro/slides_ES.html
     title: Introducción al análisis de datos de scRNA-seq

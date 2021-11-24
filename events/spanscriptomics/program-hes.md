@@ -77,8 +77,8 @@ schedule:
         - link: introduction/galaxy-intro-short/tutorial_hes
 
     ngs:
-      title: Single Cell
-      description: "Here we show you how to analyze your single cell data using Galaxy."
+      title: Análisis de célula única
+      description: "Aquí te mostraremos cómo analizar tus datos de célula única usando la plataforma Galaxy."
       sessions:
         - link: transcriptomics/scrna-intro/slides_hes
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial_hes
