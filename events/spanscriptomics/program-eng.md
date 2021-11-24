@@ -47,6 +47,12 @@ instructors:
   - Eucaliptovni
   - Veronica Olivo Pimentel
 
+logos:  # refers to images in assets/images/logos
+  - OU.logo.png
+  - uni-quilmes-conicet.png
+
+
+
 schedule:
     day1:
       title: Welcome & Practical Information

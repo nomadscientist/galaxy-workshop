@@ -1,9 +1,17 @@
 <div class="row" style='padding: 2em; content-width: 90%'>
  <div>
+
+ {% if page.logos%}
+  {% for image in page.logos %}
+  <img src="{{ site.baseurl }}/assets/images/logos/{{image}}" alt="Institution Logo" style="height:5em; margin: 1em;"/>
+ {% endfor %}
+
+ {% else %}
  {% for image in site.static_files %}
   {% if image.path contains 'images/logos' %}
   <img src="{{ site.baseurl }}{{ image.path }}" alt="Institution Logo for {{ image.path | replace: '/assets/images/logos/', '' | replace: '.jpg', '' | replace: '.png', '' }}" style="height:5em; margin: 1em;"/>
   {% endif %}
  {% endfor %}
+ {% endif %}
  </div>
 </div>

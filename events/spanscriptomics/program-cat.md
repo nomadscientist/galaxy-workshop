@@ -25,7 +25,6 @@ tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
-slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
@@ -46,6 +45,10 @@ instructors:
   - Vinicius Maracaja-Coutinho
   - Eucaliptovni
   - Veronica Olivo Pimentel
+logos:  # refers to images in assets/images/logos
+  - OU.logo.png
+  - uni-quilmes-conicet.png
+
 
 #to add: How to change your Galaxy Preferences to Spanish language
 
@@ -96,8 +99,6 @@ schedule:
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
 ---
 
-¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programcat) y la información de nuestro proyecto [aquí](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
+¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) y la información de nuestro proyecto [aquí](todo).
 
-**Se le ha asignado al equipo CAT.** Todos estos recursos fueron traducidos automáticamente por Google Translate. Puede encontrar los botones para cambiar de equipo (¡si lo desea!) En la parte inferior de esta página. ¡Asegúrese de tener en cuenta que cambió en la encuesta posterior al curso!
-
-Asegúrate de configurar tu [Galaxy en español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* Button --> 8. Si ves 'Flujo de trabajo', ¡has tenido éxito!
+**Se le ha asignado al equipo ENG.** Todos estos son recursos bioinformáticos originales en inglés. Puede encontrar los botones para cambiar de equipo (¡si lo desea!) En la parte inferior de esta página. ¡Asegúrese de tener en cuenta que cambió en la encuesta posterior al curso!
