@@ -40,7 +40,7 @@ instructors:
   - mtbernardi
   - melibleq
   - npalopoli
-  - StefyDreptate
+  - stefydreptate
 #additional trainers
   - pcm32
   - Vinicius Maracaja-Coutinho
@@ -98,7 +98,7 @@ schedule:
     otro-idioma:
       title: "Quieres cambiar de idioma?"
       description: |
-        Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (ENG-Inglés) o la versión original en inglés (HES-Español). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!
+        Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (ENG-Inglés) o la versión original en inglés (HES-Español). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!<br/>
 
         <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>

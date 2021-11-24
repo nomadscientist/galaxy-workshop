@@ -19,7 +19,7 @@ instructors:
   - mtbernardi
   - melibleq
   - npalopoli
-  - StefyDreptate
+  - stefydreptate
 #trainers
   - pcm32
   - Vinicius

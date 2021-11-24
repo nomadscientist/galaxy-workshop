@@ -18,7 +18,7 @@ instructors:
   - María Bernardi
   - Melissa Black
   - npalopoli
-  - Stefana Dreptate
+  - stefana dreptate
   #
   - Pablo Moreno
   - Vinicius
