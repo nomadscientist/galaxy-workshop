@@ -98,4 +98,4 @@ Este taller sólo ha sido posible gracias a nuestro fabuloso equipo y sus instit
 
 ### Instituciones
 
-![company of biologists logo]({{ site.baseurl }}{% link assets/images/logos/CoBiologists_logo.png %}) ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})
+![company of biologists logo]({{ site.baseurl }}{% link assets/images/institutions/company-of-biologists.png %}) ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})

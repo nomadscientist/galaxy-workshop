@@ -102,7 +102,6 @@ schedule:
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
-    # thisneedslotsofprogramminghelp
     otro-idioma:
       title: "Quieres cambiar idioma?"
       description: |

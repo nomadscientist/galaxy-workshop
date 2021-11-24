@@ -67,7 +67,7 @@ schedule:
 
     ngs:
       title: Single Cell
-      description: "Here we show you how to analyze your NGS data using Galaxy."
+      description: "Here we show you how to analyze your single cell data using Galaxy."
       sessions:
         - link: transcriptomics/scrna-intro/slides_hes
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial_hes
@@ -87,7 +87,6 @@ schedule:
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
-  #thisneedslotsofprogramminghelp
 
     otro-idioma:
         title: "Quieres cambiar idioma?"
@@ -99,7 +98,7 @@ schedule:
 
 ---
 
-TRANSLATE ME: Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
+TRANSLATE ME: Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programhes) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
 
 **You've been allocated to the HES team.** These are the resources translated by native Spanish-speaking bioinformaticians. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
 
