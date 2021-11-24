@@ -14,7 +14,7 @@ description:
 date_start: 2021-11-29
 format: async
 registration_form:
-feedback_form:
+feedback_form: https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller
 certificates: true
 lang: en
 galaxy_servers:
@@ -107,7 +107,7 @@ schedule:
     post-course:
       title: "After the Course"
       description: |
-        <a href="TODO" class="btn btn-success btn-lg">feedback survey</a><br/>
+        <a href="https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller" class="btn btn-success btn-lg">feedback survey</a><br/>
 
         Please fill out this feedback survey after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
         All the course materials will remain online, so you can continue working on them for as

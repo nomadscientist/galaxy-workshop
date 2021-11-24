@@ -14,7 +14,7 @@ description:
 date_start: 2021-11-29
 format: async
 registration_form:
-feedback_form:
+feedback_form: https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller
 certificates: true
 lang: es
 galaxy_servers:
@@ -91,7 +91,7 @@ schedule:
     post-course:
       title: "Después del curso"
       description: |
-        <a href="TODO" class="btn btn-success btn-lg">Encuesta de fin de curso</a><br/>
+        <a href="https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller" class="btn btn-success btn-lg">Encuesta de fin de curso</a><br/>
 
         Por favor completa esta encuesta una vez terminado el taller. Este cuestionario es crucial para el estudio GTÑ sobre el impacto de la traducción de materiales bioinformáticos. Todos los materiales del curso permanecerán en línea, por lo que podrás seguir trabajando en ellos todo el tiempo que desees. La única diferencia será que tendrás que hacer tus preguntas en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN de Gitter</a>, en lugar de en Slack.
 
