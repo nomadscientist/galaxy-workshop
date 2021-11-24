@@ -14,7 +14,7 @@ description:
 date_start: 2021-11-29
 format: async
 registration_form:
-feedback_form:
+feedback_form: https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller
 certificates: true
 lang: es-cat
 galaxy_servers:
@@ -23,6 +23,7 @@ galaxy_servers:
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 tracking: spanscriptomics
+slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
 instructors:
@@ -39,14 +40,22 @@ instructors:
   - mtbernardi
   - melibleq
   - npalopoli
-  - StefyDreptate
+  - stefydreptate
 #additional trainers
   - pcm32
   - Vinicius Maracaja-Coutinho
   - Eucaliptovni
-  - Veronica Olivo Pimentel
+logos:  # refers to images in assets/images/logos
+  - OU.logo.png
+  - company-of-biologists.png
+  - embl-ebi.png
+  - 03_erasmusmc.png
+  - avans.jpeg
+  - 04_unifreiburg.png
+  - tamu_logo.png
+  - uba_logo.png
+  - Double-logo.png
 
-#to add: How to change your Galaxy Preferences to Spanish language
 
 schedule:
     day1:
@@ -82,19 +91,21 @@ schedule:
     post-course:
       title: Después del curso
       description: |
-        <a href="TODO" class="btn btn-success btn-lg">encuesta de comentarios</a><br/>
+        <a href="https://openuniversity.onlinesurveys.ac.uk/Encuesta-de-fin-de-taller" class="btn btn-success btn-lg">encuesta de comentarios</a><br/>
 
         Complete esta encuesta de comentarios después del taller. Ya que esto es crucial para el estudio GTÑ sobre el impacto de la traducción de materiales bioinformáticos. Todos los materiales del curso permanecerán en línea, por lo que podrá seguir trabajando en ellos todo el tiempo que desee. La única diferencia será que debe hacer sus preguntas en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de en Slack.
 
     otro-idioma:
-      title: "Quieres cambiar idioma?"
+      title: "Quieres cambiar de idioma?"
       description: |
-        Aquí puede cambiar a los programas con recursos que fueron traducidos automáticamente (ENG-Inglés) o traducidos por humanos (HES-Español). ¡Recuerde anotar esto en la Encuesta posterior al curso! ¡Estos son datos valiosos!
+        Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (ENG-Inglés) o la versión original en inglés (HES-Español). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!<br/>
 
         <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
 ---
 
-¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí](https://nomadscientist.github.io/galaxy-workshop/events/spanscriptomics/) y la información de nuestro proyecto [aquí](todo).
+¡Bienvenidos al Experimento GTÑ! ¿Qué es la GTÑ y cuál es el experimento en este taller? Vea la descripción de nuestro taller [aquí](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programcat) y la información de nuestro proyecto [aquí](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
 
 **Se le ha asignado al equipo ENG.** Todos estos son recursos bioinformáticos originales en inglés. Puede encontrar los botones para cambiar de equipo (¡si lo desea!) En la parte inferior de esta página. ¡Asegúrese de tener en cuenta que cambió en la encuesta posterior al curso!
+
+Asegúrate de configurar tu [Galaxy en español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* Botón -> 8. Si ves 'Flujo de trabajo', ¡has tenido éxito!

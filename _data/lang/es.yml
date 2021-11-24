@@ -12,6 +12,7 @@ thanks-institutions: Institutos
 self-study: Tutorial autodidáctico
 video: Video
 supporting: Materiales de apoyo
+speaker: Voz
 
 # _includes/session_materials.html
 watch-on: Velo en
@@ -60,3 +61,4 @@ description: Descripción
 
 # _includes/instructor_card.html
 polly-explain: Esto nos ayuda a mantener las diapositivas actualizadas más fácilmente
+speaker: Voz

@@ -14,7 +14,7 @@ description:
 date_start: 2021-11-29
 format: async
 registration_form:
-feedback_form:
+feedback_form: https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller
 certificates: true
 lang: en
 galaxy_servers:
@@ -25,6 +25,7 @@ tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
+slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
@@ -39,12 +40,24 @@ instructors:
   - mtbernardi
   - melibleq
   - npalopoli
-  - StefyDreptate
+  - stefydreptate
 #additional trainers
   - pcm32
   - Vinicius Maracaja-Coutinho
   - Eucaliptovni
-  - Veronica Olivo Pimentel
+
+logos:  # refers to images in assets/images/logos
+  - OU.logo.png
+  - company-of-biologists.png
+  - embl-ebi.png
+  - 03_erasmusmc.png
+  - avans.jpeg
+  - 04_unifreiburg.png
+  - tamu_logo.png
+  - uba_logo.png
+  - Double-logo.png
+
+
 
 schedule:
     day1:
@@ -94,23 +107,23 @@ schedule:
     post-course:
       title: "After the Course"
       description: |
-        <a href="TODO" class="btn btn-success btn-lg">feedback survey</a><br/>
+        <a href="https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller" class="btn btn-success btn-lg">feedback survey</a><br/>
 
         Please fill out this feedback survey after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
         All the course materials will remain online, so you can continue working on them for as
         long as you want. The only difference will be that you should ask your questions
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
-    # thisneedslotsofprogramminghelp
     otro-idioma:
-      title: "Quieres cambiar idioma?"
+      title: "Quieres cambiar de idioma?"
       description: |
-        Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
+        Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (CAT-Español) o la versión original en inglés (HES-Español). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!<br/>
+
         <a href="program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton" class="btn btn-info btn-lg"> CAT-Español </a>
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
 
 ---
 
-Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/index-en?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programeng) and our project information [here](todo).
+Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/index-en?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programeng) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Project_Information_Sheet.pdf).
 
 **You've been allocated to the ENG team.** These are all original, English bioinformatics resources. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
