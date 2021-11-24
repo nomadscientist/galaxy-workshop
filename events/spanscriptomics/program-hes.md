@@ -71,7 +71,7 @@ schedule:
       description: "Hoy comenzaremos presentando la plataforma Galaxy"
       sessions:
         - name: "Rompehielos: ¡Preséntate en el canal de Slack!"
-          type: Rompehielos
+          type: icebreaker
           prompt: "Ven a presentarte, dinos desde dónde te unes y alguna cosa sobre tu entorno (por ejemplo, está nevando afuera, hay una ardilla en mi patio, mi gato duerme en mi teclado)"
         - link: introduction/galaxy-intro-short/slides_hes
         - link: introduction/galaxy-intro-short/tutorial_hes
