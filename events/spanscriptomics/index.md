@@ -24,7 +24,6 @@ instructors:
   - pcm32
   - Vinicius
   - Montserrat Ve Go
-  - Veronica Olivo Pimentel
 
 
 image: /events/spanscriptomics/logo.png
@@ -98,4 +97,4 @@ Este taller sólo ha sido posible gracias a nuestro fabuloso equipo y sus instit
 
 ### Instituciones
 
-![company of biologists logo]({{ site.baseurl }}{% link assets/images/institutions/company-of-biologists.png %}) ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})
+![company of biologists logo]({{ site.baseurl }}{% link assets/images/institutions/company-of-biologists.png %})  ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})  ![EMBL-EBI Logo]({{ site.baseurl }}{% link assets/images/logos/embl-ebi.png %})  ![ErasmusMC Logo]({{ site.baseurl }}{% link assets/images/logos/03_erasmusmc.png %})  ![Avans Hogeschool Logo]({{ site.baseurl }}{% link assets/images/logos/avans.jpeg %})  ![University of Freiburg Logo]({{ site.baseurl }}{% link assets/images/logos/04_unifreiburg.png %})  ![Center for Phage Technology: Texas A&M University Logo]({{ site.baseurl }}{% link assets/images/logos/tamu_logo.png %})  ![Conicet Iquibicen UBA Logo]({{ site.baseurl }}{% link assets/images/logos/uba_logo.png %}) ![Universidad Nacional de Quilmes - CONICET Logo]({{ site.baseurl }}{% link assets/images/logos/Double-logo.png %})
