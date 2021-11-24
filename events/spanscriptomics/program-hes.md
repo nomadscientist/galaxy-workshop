@@ -85,24 +85,21 @@ schedule:
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial_hes
 
     done:
-      title: "All done?"
-      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
+      title: "¿Todo listo?"
+      description: "¡No dudes en pasar el rato en Slack y hablar con nosotros y con el resto de la comunidad Galaxy! ¡¡Gracias por unirte!!"
 
     post-course:
-      title: "After the Course"
+      title: "Después del curso"
       description: |
-        <a href="TODO" class="btn btn-success btn-lg">Encuesta de comentarios</a><br/>
+        <a href="TODO" class="btn btn-success btn-lg">Encuesta de fin de curso</a><br/>
 
-        Please fill out this feedback survey  after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
-        All the course materials will remain online, so you can continue working on them for as
-        long as you want. The only difference will be that you should ask your questions
-        on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
+        Por favor completa esta encuesta una vez terminado el taller. Este cuestionario es crucial para el estudio GTÑ sobre el impacto de la traducción de materiales bioinformáticos. Todos los materiales del curso permanecerán en línea, por lo que podrás seguir trabajando en ellos todo el tiempo que desees. La única diferencia será que tendrás que hacer tus preguntas en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN de Gitter</a>, en lugar de en Slack.
 
 
     otro-idioma:
-        title: "Quieres cambiar idioma?"
+        title: "Quieres cambiar de idioma?"
         description: |
-          TRANSLATE ME Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or the English version (ENG-English). Please remember to note this in the post-course survey! This is valuable data!
+          Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (CAT-Español) o la versión original en inglés (ENG-English). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!
 
           <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
           <a href="program-cat?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton" class="btn btn-info btn-lg"> CAT-Español </a>

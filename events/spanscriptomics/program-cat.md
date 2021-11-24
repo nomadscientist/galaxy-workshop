@@ -98,9 +98,9 @@ schedule:
         Complete esta encuesta de comentarios después del taller. Ya que esto es crucial para el estudio GTÑ sobre el impacto de la traducción de materiales bioinformáticos. Todos los materiales del curso permanecerán en línea, por lo que podrá seguir trabajando en ellos todo el tiempo que desee. La única diferencia será que debe hacer sus preguntas en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de en Slack.
 
     otro-idioma:
-      title: "Quieres cambiar idioma?"
+      title: "Quieres cambiar de idioma?"
       description: |
-        Aquí puede cambiar a los programas con recursos que fueron traducidos automáticamente (ENG-Inglés) o traducidos por humanos (HES-Español). ¡Recuerde anotar esto en la Encuesta posterior al curso! ¡Estos son datos valiosos!
+        Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (ENG-Inglés) o la versión original en inglés (HES-Español). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!
 
         <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-CAT&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>

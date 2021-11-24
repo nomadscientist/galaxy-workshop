@@ -115,9 +115,10 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 
     otro-idioma:
-      title: "Quieres cambiar idioma?"
+      title: "Quieres cambiar de idioma?"
       description: |
-        Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or translated by humans (HES-Español). Please remember to note this in the post-course survey! This is valuable data!
+        Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (CAT-Español) o la versión original en inglés (HES-Español). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!
+
         <a href="program-cat?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton" class="btn btn-info btn-lg"> CAT-Español </a>
         <a href="program-hes?utm_campaign=Spanscriptomics&utm_medium=program-ENG&utm_source=pagebutton" class="btn btn-info btn-lg"> HES-Español </a>
 

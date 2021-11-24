@@ -1631,9 +1631,9 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
       destacar que este es el primer paso en el procesamiento de datos de una
       sola celda para comenzar a analizarlos. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - type: Tutorial con video tutorial
+  - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
-  type: Autoestudio con tutorial en video
+  type: Tutorial con video tutorial
   support_channel: "#3_scrna-alevin-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RM81QU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vT2mDOrH9L8oky-MG26vKjnRmV1zGNZd3vsOGFUjL-lhpBQi95vSYKgWYyqgTEPC4wz8LjGvTgfBi1Z/pub"
@@ -1652,7 +1652,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_hes:
   description: |
        En este tutorial te llevaremos en el análisis paso a paso partiendo de archivos FASTQ sin procesar hasta la obtención de una matriz de datos de genes por célula en formato AnnData. ¿Qué es una matriz de datos y qué es el formato AnnData? ¡Bueno, lo descubrirás conforme avances en el tutorial! Es importante destacar que este es el primer paso en el procesamiento de datos de célula única.
   material:
-  - type: Tutorial con material guiado
+  - type: Tutorial
     link: topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial_ES.html
   type: Video tutorial con material de guía
   support_channel: "#3_scrna-alevin-hes"
@@ -1698,9 +1698,9 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
       Ha hecho todo el trabajo para hacer una matriz de una sola célula, con recuentos de genes y recuentos de mitocondrias y cubos de metadatos de células de todas sus variables de interés, ahora es el momento de procesar completamente nuestros datos, eliminar células de baja calidad, reducir el muchas dimensiones de datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y encontrar nuestro significado y conocimientos biológicos.
       Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - type: Tutorial con video tutorial
+  - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
-  type: Autoestudio con tutorial en video
+  type: Tutorial con video tutorial
   support_channel: "#4_scrna-final-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MWKLEY5B"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
@@ -1718,9 +1718,9 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
   description: |
        Ya has hecho todo el trabajo necesario para generar una matriz de célula única, con recuentos de genes, recuentos de mitocondrias y los metadatos asociados a las variables de interés. Ahora es el momento de terminar de procesar nuestros datos, eliminar células de baja calidad, reducir la dimensionalidad de los datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y darle sentido biológico a los resultados.
   material:
-  - type: Tutorial con material guiado
+  - type: Tutorial
     link: "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html"
-  type: Tutorial
+  type: Video tutorial con material de guía
   support_channel: "#4_scrna-final-hes"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MZK0PPMZ"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTIorwkiFua1sXaJwKOsXPTugOZz_BzcfNnFgbsd2a6AjDuHbrj-KD023J25OHp9F_Dmql0luIMCN3N/pub"
