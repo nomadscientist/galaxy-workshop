@@ -60,19 +60,19 @@ logos:  # refers to images in assets/images/logos
 
 schedule:
     day1:
-      title: Welcome & Practical Information
+      title: Bienvenida e información práctica
       sessions:
-        - name: "Get set up for the course"
+        - name: "Ir a configurar curso"
           type: setup
         - link: meetnjoin_hes
 
     galaxy-intro:
       title: "Introducción a Galaxy"
-      description: "Today we start by introducing the Galaxy Platform"
+      description: "Hoy comenzaremos presentando la plataforma Galaxy"
       sessions:
-        - name: "Icebreaker: Introduce yourself in Slack!"
-          type: icebreaker
-          prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
+        - name: "Rompehielos: ¡Preséntate en el canal de Slack!"
+          type: Rompehielos
+          prompt: "Ven a presentarte, dinos desde dónde te unes y alguna cosa sobre tu entorno (por ejemplo, está nevando afuera, hay una ardilla en mi patio, mi gato duerme en mi teclado)"
         - link: introduction/galaxy-intro-short/slides_hes
         - link: introduction/galaxy-intro-short/tutorial_hes
 
@@ -109,8 +109,8 @@ schedule:
 
 ---
 
-TRANSLATE ME: Welcome to the GTÑ Experiment! What is the GTÑ and what is the experiment in this workshop? See our workshop description [here](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programhes) and our project information [here](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
+¡Bienvenidos al Experimento GTÑ! ¿Qué es GTÑ y de qué se trata el experimento en este taller? Mira la descripción de nuestro taller [aquí](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programhes) y obtén toda la información relacionada a nuestro proyecto [aquí](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
 
-**You've been allocated to the HES team.** These are the resources translated by native Spanish-speaking bioinformaticians. You can find the buttons to switch teams (if you want!) at the bottom of this page. Please make sure to note that you switched in the post-course survey!
+**Has sido asignado al equipo de HES.** Estos son los recursos traducidos por bioinformáticos nativos de habla hispana. Puedes encontrar los botones para cambiar de equipo (¡si lo deseas!) en la parte inferior de esta página. ¡Asegúrate de reportar qué cambio hiciste en la encuesta posterior al curso!
 
-Please make sure to set your [Galaxy to Spanish](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* Button --> 8. If you see 'Flujo de trabajo', you were successful!
+Por favor, asegurate de configurar tu [Galaxy en español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* botón --> 8. Si puedes ver 'Flujo de trabajo' en la parte superior de la ventana, la configuración fue exitosa!

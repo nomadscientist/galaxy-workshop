@@ -606,78 +606,78 @@ meetnjoin_hes:
   description: "TRANSLATE ME (and the link translations below!) This short video gives an overview of the GTÑ project made possible by the Galaxy community, and different ways you can get involved! *Video created by Alejandra Escobar-Zepeda*."
   material:
   - external: true
-    link: Channel "#GTN-equipo"
+    link: Canal "#GTN-equipo"
     title: Slack-GTÑ
-    type: Help with GTÑ Projects
+    type: Ayuda con proyectos GTÑ
   - external: true
     link: https://galaxyproject.org
     title: galaxyproject.org
     type: GalaxyProject Home
   - external: true
     link: https://galaxyproject.org/use/
-    title: Find a Galaxy server near you!
-    type: Galaxy servers
+    title: ¡Encuentra un servidor de Galaxy cerca de ti!
+    type: Servidores Galaxy
   - external: true
     link: https://training.galaxyproject.org
-    title: Start learning Galaxy
+    title:  Empieza a aprender en Galaxy
     type: Galaxy Training Network
   - external: true
     link: https://help.galaxyproject.org/
-    title: Galaxy Help Forum
-    type: Support
+    title: Foro de ayuda de Galaxy
+    type: Ayuda
   - external: true
     link: https://www.zotero.org/groups/1732893/galaxy
     title: Zotero
-    type: Galaxy Publications
+    type: Publicaciones de Galaxy
   - external: true
     link: https://galaxyproject.org/community/
-    title: Find and Join a community
-    type: Galaxy Communities
+    title: Únete a la comunidad de Galaxy
+    type: Comunidad Galaxy
   - external: true
     link: https://galaxyproject.org/events/
-    title: Galaxy Event Horizon
-    type: Events
+    title: Evento de frontera Galaxy (Galaxy Event Horizon)
+    type: Eventos
   - external: true
     link: https://galaxyproject.org/mailing-lists/
-    title: Stay informed of Galaxy activity!
-    type: Mailing Lists
+    title: ¡Mantente informado de la actividad en Galaxy!
+    type: Listas de correos
   - external: true
     link: https://galaxyproject.org/community/wg/
-    title: Find and join a WG
-    type: Galaxy Working Groups
+    title: Únete a un grupo de trabajo
+    type: Grupos de trabajo de Galaxy
   - external: true
     link: https://github.com/galaxyproject
     title: galaxyproject
     type: GitHub
   - external: true
     link: https://gitter.im/galaxyproject/Lobby
-    title: Start talking with the Galaxy Community!
+    title: ¡Empieza a hablar con la comunidad de Galaxy!
     type: Gitter Chat
   - external: true
     link: https://gitter.im/Galaxy-Training-Network/Lobby
-    title: Join the training discussion here!
+    title:  ¡Únete al grupo de discusión aquí!
     type: GTN Gitter
   - external: true
     link: https://galaxyproject.org/events/2021-02-papercuts/
-    title: Monthly Collaboration Fest
+    title: Festival de colaboración mensual
     type: PaperCuts
   - external: true
     link: https://github.com/galaxyproject/training-material/issues/1712
-    title: Everybody Welcome!
+    title: ¡Todos son bienvenidos!
     type: GTN CoFest
   - external: true
     link: https://twitter.com/search?q=%23spanscriptomics&src=typed_query&f=top
-    title: follow Spanscriptomics
+    title: sigue Spanscriptomics
     type: Twitter
   - external: true
     link: https://twitter.com/galaxyproject
-    title: follow @galaxyproject
+    title: sigue @galaxyproject
     type: Twitter
   - external: true
     link: https://twitter.com/gxytraining
-    title: follow the GTN @gxytraining
+    title: sigue el GTN @gxytraining
     type: Twitter
-  name: Meet & Join the Galaxy Training Ñetwork!
+  name: Conoce y únete al Galaxy Training Ñetwork
   tags: [meta]
   videos:
   - captions:
@@ -1431,7 +1431,7 @@ introduction/galaxy-intro-short/slides_cat:
 #1-HES
 introduction/galaxy-intro-short/slides_hes:
   description: |
-      TRANSLATE ME: This short introduction to Galaxy will tell you why it's so great for accessibility, reproducibility and sustainability of bioinformatics training.
+      Esta breve introducción a Galaxy te dirá por qué esta plataforma es tan buena para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
   material:
   - link: topics/introduction/tutorials/galaxy-intro-short/slides_ES.html
     title: Una breve Introducción a Galaxy
@@ -1443,7 +1443,7 @@ introduction/galaxy-intro-short/slides_hes:
   faq: "https://docs.google.com/document/d/e/2PACX-1vS-AfP0XBL_94izw-i77nv3nJLw_LeUqIeU194D8mdOK9vPls62LsirLUqony2l8b2P5lsz1TU8fIaw/pub"
   tags: [gtñ]
   videos:
-  - captions: []
+  - captions: [npalopoli]
     event_name: GTÑ
     length: 6M
     link: oMjSiURJxLg
