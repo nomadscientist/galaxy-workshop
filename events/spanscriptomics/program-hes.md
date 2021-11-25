@@ -110,4 +110,3 @@ schedule:
 
 **Has sido asignado al equipo de HES.** Estos son los recursos traducidos por bioinformáticos nativos de habla hispana. Puedes encontrar los botones para cambiar de equipo (¡si lo deseas!) en la parte inferior de esta página. ¡Asegúrate de reportar qué cambio hiciste en la encuesta posterior al curso!
 
-Por favor, asegurate de configurar tu [Galaxy en español](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* botón --> 8. Si puedes ver 'Flujo de trabajo' en la parte superior de la ventana, la configuración fue exitosa!
