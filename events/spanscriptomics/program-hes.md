@@ -26,6 +26,7 @@ tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
+instructors-per-session: false
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
