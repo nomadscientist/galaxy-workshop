@@ -4,7 +4,6 @@ title: Análisis de células únicas usando Galaxy
 site_title: GTÑ
 type: track
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
-event_state: 'wip' # 'wip', 'running' or 'done'
 contacts:
 - name: Wendi Bacon
   email: wendi.bacon@open.ac.uk
@@ -14,7 +13,7 @@ description:
 date_start: 2021-11-29
 format: async
 registration_form:
-feedback_form:
+feedback_form: https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller
 certificates: true
 lang: es
 galaxy_servers:
@@ -25,6 +24,8 @@ tiaas_servers: [eu]
 tracking: spanscriptomics
 logo: events/spanscriptomics/logo.png
 twitter_hashtag: "#spanscriptomics"
+slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
+instructors-per-session: false
 instructors:
 #organisers & trainers
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
@@ -39,63 +40,73 @@ instructors:
   - mtbernardi
   - melibleq
   - npalopoli
-  - StefyDreptate
+  - stefydreptate
 #additional trainers
   - pcm32
   - Vinicius Maracaja-Coutinho
   - Eucaliptovni
-  - Veronica Olivo Pimentel
+
+logos:  # refers to images in assets/images/logos
+  - OU.logo.png
+  - company-of-biologists.png
+  - embl-ebi.png
+  - 03_erasmusmc.png
+  - avans.jpeg
+  - 04_unifreiburg.png
+  - tamu_logo.png
+  - uba_logo.png
+  - Double-logo.png
+
 
 schedule:
     day1:
-      title: Welcome & Practical Information
+      title: Bienvenida e información práctica
       sessions:
-        - name: "Get set up for the course"
+        - name: "Ir a configurar curso"
           type: setup
         - link: meetnjoin_hes
 
     galaxy-intro:
       title: "Introducción a Galaxy"
-      description: "Today we start by introducing the Galaxy Platform"
+      description: "Hoy comenzaremos presentando la plataforma Galaxy"
       sessions:
-        - name: "Icebreaker: Introduce yourself in Slack!"
+        - name: "Rompehielos: ¡Preséntate en el canal de Slack!"
           type: icebreaker
-          prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
+          prompt: "Ven a presentarte, dinos desde dónde te unes y alguna cosa sobre tu entorno (por ejemplo, está nevando afuera, hay una ardilla en mi patio, mi gato duerme en mi teclado)"
         - link: introduction/galaxy-intro-short/slides_hes
         - link: introduction/galaxy-intro-short/tutorial_hes
 
     ngs:
-      title: Single Cell
-      description: "Here we show you how to analyze your NGS data using Galaxy."
+      title: Análisis de célula única
+      description: "Aquí te mostraremos cómo analizar tus datos de célula única usando la plataforma Galaxy."
       sessions:
         - link: transcriptomics/scrna-intro/slides_hes
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial_hes
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial_hes
 
     done:
-      title: "All done?"
-      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
+      title: "¿Todo listo?"
+      description: "¡No dudes en pasar el rato en Slack y hablar con nosotros y con el resto de la comunidad Galaxy! ¡¡Gracias por unirte!!"
 
     post-course:
-      title: "After the Course"
+      title: "Después del curso"
       description: |
-        <a href="TODO" class="btn btn-success btn-lg">Encuesta de comentarios</a><br/>
+        <a href="https://openuniversity.onlinesurveys.ac.uk/encuesta-de-fin-de-taller" class="btn btn-success btn-lg">Encuesta de fin de curso</a><br/>
 
-        Please fill out this feedback survey  after the workshop. This survey is crucial for the GTÑ study on the impact of translating bioinformatics materials.
-        All the course materials will remain online, so you can continue working on them for as
-        long as you want. The only difference will be that you should ask your questions
-        on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
+        Por favor completa esta encuesta una vez terminado el taller. Este cuestionario es crucial para el estudio GTÑ sobre el impacto de la traducción de materiales bioinformáticos. Todos los materiales del curso permanecerán en línea, por lo que podrás seguir trabajando en ellos todo el tiempo que desees. La única diferencia será que tendrás que hacer tus preguntas en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN de Gitter</a>, en lugar de en Slack.
 
-  #thisneedslotsofprogramminghelp
 
     otro-idioma:
-        title: "Quieres cambiar idioma?"
+        title: "Quieres cambiar de idioma?"
         description: |
-          TRANSLATE ME Here you can switch to the programmes with resources that were automatically translated (CAT-Español) or the English version (ENG-English). Please remember to note this in the post-course survey! This is valuable data!
+          Aquí puedes cambiar entre versiones de material de apoyo con recursos que fueron traducidos automáticamente (CAT-Español) o la versión original en inglés (ENG-English). ¡Recuerda reportar esto en la encuesta posterior al curso! ¡Estos son datos valiosos para el experimento!<br/>
 
           <a href="program-eng?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton" class="btn btn-info btn-lg"> ENG-Inglés </a>
           <a href="program-cat?utm_campaign=Spanscriptomics&utm_medium=program-HES&utm_source=pagebutton" class="btn btn-info btn-lg"> CAT-Español </a>
 
 ---
 
-TRANSLATE ME: Welcome to the GTÑ Experiment! Please make sure to set your [Galaxy to Spanish](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics/changing_language.png)! 1: **User** --> 2: **Preferences** → 3: **Manage information** --> 4: **Preferred Language** --> 5: **Español** --> 6. **Save** --> 7. *Tools and Current* Button --> 8. If you see 'Flujo de trabajo', you were successful!
+¡Bienvenidos al Experimento GTÑ! ¿Qué es GTÑ y de qué se trata el experimento en este taller? Mira la descripción de nuestro taller [aquí](https://gallantries.github.io/galaxy-workshop/events/spanscriptomics?utm_campaign=Spanscriptomics&utm_source=program&utm_medium=programhes) y obtén toda la información relacionada a nuestro proyecto [aquí](https://github.com/gallantries/galaxy-workshop/blob/main/events/spanscriptomics/Hoja_de_informacion_de_proyecto.pdf).
+
+**Has sido asignado al equipo de HES.** Estos son los recursos traducidos por bioinformáticos nativos de habla hispana. Puedes encontrar los botones para cambiar de equipo (¡si lo deseas!) en la parte inferior de esta página. ¡Asegúrate de reportar qué cambio hiciste en la encuesta posterior al curso!
+

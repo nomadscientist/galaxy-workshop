@@ -18,12 +18,11 @@ instructors:
   - María Bernardi
   - Melissa Black
   - npalopoli
-  - Stefana Dreptate
+  - stefana dreptate
   #
   - Pablo Moreno
   - Vinicius
   - Montserrat Ve Go
-  - Veronica Olivo Pimentel
 
 image: /events/spanscriptomics/logo.png
 
@@ -61,7 +60,6 @@ There will be a trained, expert team during the course dedicated to guiding you,
 **Who:** Spanish Native Speakers \\
 **Cost:** Free \\
 **Format:** Virtual and asynchronous. All training sessions are pre-recorded, you can work through these at your own pace, with instructors available online for support for the 2 days period. \\
-**Support:** Slack Channel  ([invite link]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel)  \\
 **Contact:**[Stefana Dreptate](mailto:stefana.dreptate@gmail.com), [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
 **Organized by:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
 
@@ -98,4 +96,4 @@ We are thankful for the donation made by [The Company of Biologists](https://www
 
 ### Institutions
 
-![company of biologists logo]({{ site.baseurl }}{% link assets/images/logos/CoBiologists_logo.png %}) ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})
+![company of biologists logo]({{ site.baseurl }}{% link assets/images/institutions/company-of-biologists.png %})  ![Open University Logo]({{ site.baseurl }}{% link assets/images/institutions/OU.logo.png %})  ![EMBL-EBI Logo]({{ site.baseurl }}{% link assets/images/institutions/embl-ebi.png %})  ![ErasmusMC Logo]({{ site.baseurl }}{% link assets/images/institutions/03_erasmusmc.png %})  ![Avans Hogeschool Logo]({{ site.baseurl }}{% link assets/images/institutions/avans.jpeg %})  ![University of Freiburg Logo]({{ site.baseurl }}{% link assets/images/institutions/04_unifreiburg.png %})  ![Center for Phage Technology: Texas A&M University Logo]({{ site.baseurl }}{% link assets/images/institutions/tamu_logo.png %})  ![Conicet Iquibicen UBA Logo]({{ site.baseurl }}{% link assets/images/institutions/uba_logo.png %}) ![Universidad Nacional de Quilmes - CONICET Logo]({{ site.baseurl }}{% link assets/images/institutions/Double-logo.png %})

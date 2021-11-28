@@ -20,7 +20,7 @@ faq-question: Have a question about this training? Check here to see if it has a
 
 ask-an-instructor: Ask an instructor
 ask-them-on: Have question about the training? Did you run into a problem? Just wanna chat? Ask away on
-channel: Channel
+channel: Slack Channel
 finished-text: Let us know that you've finished it, and what you thought of it!
 finished: Finished the session?
 on-slack: On slack!
@@ -60,3 +60,4 @@ description: Description
 
 # _includes/instructor_card.html
 polly-explain: This helps us keep the video slides up-to-date more easily.
+speaker: Speaker

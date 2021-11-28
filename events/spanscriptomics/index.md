@@ -19,12 +19,11 @@ instructors:
   - mtbernardi
   - melibleq
   - npalopoli
-  - StefyDreptate
+  - stefydreptate
 #trainers
   - pcm32
   - Vinicius
   - Montserrat Ve Go
-  - Veronica Olivo Pimentel
 
 
 image: /events/spanscriptomics/logo.png
@@ -45,7 +44,7 @@ slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 Los días 29 y 30 de noviembre de 2021 organizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Formación de Galaxy (o GTN por sus siglas en inglés: Galaxy Training Network). Este será un **evento en línea que abarcará todas las zonas horarias**. Todas las sesiones de entrenamiento están pregrabadas, por lo que puedes trabajar en ellas **a tu propio ritmo** administrando tu tiempo como más te convenga.
 
 
-**¿Qué es el análisis de datos de Single Cell?** Aquí nos enfocamos específicamente en la secuenciación de ARN, donde se identifican todas (¡o un subconjunto!) de los transcritos generados por una sola célula. Aunque computacionalmente es complicado, biólogos de [todo el mundo!](https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1) están utilizando esta potente técnica para identificar tipos de células en diferentes organismos y su asociación con enfermedades, envejecimiento y más.
+**¿Qué es el análisis de datos de Single Cell?** Aquí nos enfocamos específicamente en la secuenciación de ARN, donde se identifican todas (¡o un subconjunto!) de los transcritos generados por una sola célula. Aunque computacionalmente es complicado, bióinstitutions de [todo el mundo!](https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1) están utilizando esta potente técnica para identificar tipos de células en diferentes organismos y su asociación con enfermedades, envejecimiento y más.
 
 
 Habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto en Slack! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!
@@ -64,7 +63,6 @@ Habrá un equipo capacitado y experto durante el curso dedicado a guiarte, respo
 **Quién:** Hablantes nativos de español \\
 **Precio:** Gratis \\
 **Formato:** Virtual y asíncrono. Todas las sesiones de capacitación están pregrabadas, puedes trabajar en ellas a tu propio ritmo, con instructores disponibles en línea que te asistirán los 2 días. \\
-**Soporte:** Canal de Slack ([enlace de invitación]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel) \\
 **Contacto:** [Stefana Dreptate](mailto:stefana.dreptate@gmail.com), [Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
 **Organizado por:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
 
@@ -99,4 +97,4 @@ Este taller sólo ha sido posible gracias a nuestro fabuloso equipo y sus instit
 
 ### Instituciones
 
-![company of biologists logo]({{ site.baseurl }}{% link assets/images/logos/CoBiologists_logo.png %}) ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})
+![company of biologists logo]({{ site.baseurl }}{% link assets/images/institutions/company-of-biologists.png %})  ![Open University Logo]({{ site.baseurl }}{% link assets/images/institutions/OU.logo.png %})  ![EMBL-EBI Logo]({{ site.baseurl }}{% link assets/images/institutions/embl-ebi.png %})  ![ErasmusMC Logo]({{ site.baseurl }}{% link assets/images/institutions/03_erasmusmc.png %})  ![Avans Hogeschool Logo]({{ site.baseurl }}{% link assets/images/institutions/avans.jpeg %})  ![University of Freiburg Logo]({{ site.baseurl }}{% link assets/images/institutions/04_unifreiburg.png %})  ![Center for Phage Technology: Texas A&M University Logo]({{ site.baseurl }}{% link assets/images/institutions/tamu_logo.png %})  ![Conicet Iquibicen UBA Logo]({{ site.baseurl }}{% link assets/images/institutions/uba_logo.png %}) ![Universidad Nacional de Quilmes - CONICET Logo]({{ site.baseurl }}{% link assets/images/institutions/Double-logo.png %})

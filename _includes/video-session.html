@@ -21,7 +21,7 @@
    {% assign captions = video.captions | size %}
    <strong>{{ locale['video-subs'] }}:</strong> {% for name in video.captions %}{% unless forloop.first %}, {% endunless %} {{ site.data.instructors[name].name}}{% endfor %}
 {% if captions == 0 %} {{ locale['video-subs-missing'] }}{% endif %}<br/>
-   {% if include.session.instructors %}<strong>{{ locale['instructors'] }}</strong> {% unless include.session.speaker == 'awspolly' %}{{site.data.instructors[include.session.speaker].name}}{% endunless %}{% for i in include.session.instructors %}{% if forloop.first %}{% unless include.session.speaker == 'awspolly' %}, {% endunless %}{% else %}, {% endif %} {{site.data.instructors[i].name}}{% endfor %}<br/>{% endif %}
+   {% unless page.instructors-per-session == false %}{% if include.session.instructors %}<strong>{{ locale['instructors'] }}</strong> {% unless include.session.speaker == 'awspolly' %}{{site.data.instructors[include.session.speaker].name}}{% endunless %}{% for i in include.session.instructors %}{% if forloop.first %}{% unless include.session.speaker == 'awspolly' %}, {% endunless %}{% else %}, {% endif %} {{site.data.instructors[i].name}}{% endfor %}<br/>{% endif %}{% endunless %}
    <strong>{{ locale['description'] }}:</strong> {{include.session.description}}
   </div>
  </div>

@@ -32,7 +32,34 @@
 <br/><br/>
 
 
+{% if page.lang == 'es' or page.lang == 'es-cat' %}
+<div class="card" style="width: 100%">
+ <div class="row no-gutters">
+  <div class="col-sm-4">
+   <img class="card-img" src="{{site.baseurl}}/assets/images/setup/languages.jpg" alt="Galaxy logo" width="75%">
+  </div>
+  <div class="col-sm-7">
+   <div class="card-body">
+    <h5 class="card-title">Asegúrate de configurar tu Galaxy en español!</h5>
+    <p class="card-text">
+     <ol>
+     <li>User –> </li>
+     <li>Preferences →  </li>
+     <li>Manage information –> </li>
+     <li>Preferred Language –>  </li>
+     <li>Español –>  </li>
+     <li>Save –>  </li>
+     <li>Tools and Current Botón ->  </li>
+     <li>Si ves ‘Flujo de trabajo’, ¡has tenido éxito! </li>
+     </ol>
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
 
+<br/><br/>
+{% endif %}
 
 {% if page.tiaas_keyword %}
 <div class="card" style="width: 100%">

@@ -12,6 +12,7 @@ thanks-institutions: Institutos
 self-study: Tutorial autodidáctico
 video: Video
 supporting: Materiales de apoyo
+speaker: Voz
 
 # _includes/session_materials.html
 watch-on: Velo en
@@ -38,7 +39,7 @@ tiaas-about: El Servicio de Infraestructura de Formación (Training Infrastructu
 tiaas-click: Haz clic en el enlace para unirte al evento
 tiaas-why: Esto nos permite monitorear el desempeño de las herramientas y ¡Puede hacer que tus trabajos se ejecuten más rápido!
 
-slack-join: ¡Únete a la comunidad en Slack!
+slack-join: Unete a Slack
 slack-what:  Slack es el sitio donde puedes hacer todas tus preguntas
 slack-link: Enlace de invitación
 slack-why: Aquí encontrará diferentes canales, uno para cada sesión de capacitación donde puedes hacer tus preguntas, así como algunos canales más generales para socializar, discusiones generales, comentarios y más
@@ -60,3 +61,4 @@ description: Descripción
 
 # _includes/instructor_card.html
 polly-explain: Esto nos ayuda a mantener las diapositivas actualizadas más fácilmente
+speaker: Voz
