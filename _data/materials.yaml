@@ -1713,7 +1713,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_hes:
        Ya has hecho todo el trabajo necesario para generar una matriz de célula única, con recuentos de genes, recuentos de mitocondrias y los metadatos asociados a las variables de interés. Ahora es el momento de terminar de procesar nuestros datos, eliminar células de baja calidad, reducir la dimensionalidad de los datos que hacen que sea difícil trabajar con ellos y, en última instancia, tratar de definir nuestros grupos y darle sentido biológico a los resultados.
   material:
   - type: Tutorial
-    link: "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html"
+    link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html
   type: Video tutorial con material de guía
   support_channel: "#4_scrna-final-hes"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MZK0PPMZ"
